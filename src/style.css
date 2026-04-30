@@ -1,0 +1,82 @@
+/* 全局样式 */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  overflow-y: scroll; /* 始终显示垂直滚动条,防止页面晃动 */
+}
+
+body {
+  width: 100%;
+  min-width: 0;
+  min-height: 100vh;
+  font-family: 'Noto Sans SC', 'LXGW WenKai Screen', sans-serif;
+  /* 美食地图页：全站 body 背景（平铺） */
+  background-color: #f9f6f0;
+  background-image: url('/images/bg/map.jpg');
+  background-repeat: repeat;
+  background-position: top left;
+  background-size: auto;
+  color: #2c2c2c;
+  line-height: 1.6;
+  overflow-x: hidden; /* 避免窄屏横向溢出 */
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2A6EBB;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1e5ca3;
+}
+
+/* 动画 */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.pulse {
+  animation: pulse 2s infinite;
+}
+
+/* 响应式设计（与 App.vue .main-content 配合） */
+@media (max-width: 768px) {
+  .main-content {
+    padding: 10px 8px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-content {
+    padding: 8px 6px !important;
+  }
+}

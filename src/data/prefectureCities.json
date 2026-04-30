@@ -1,0 +1,19 @@
+[
+  { "name": "武汉市", "lng": 114.17, "lat": 30.35, "province": "湖北省", "level": "地级市" },
+  { "name": "黄石市", "lng": 115.08, "lat": 30.22, "province": "湖北省", "level": "地级市" },
+  { "name": "十堰市", "lng": 110.8, "lat": 32.65, "province": "湖北省", "level": "地级市" },
+  { "name": "宜昌市", "lng": 111.3, "lat": 30.7, "province": "湖北省", "level": "地级市" },
+  { "name": "襄阳市", "lng": 112.14, "lat": 32.02, "province": "湖北省", "level": "地级市" },
+  { "name": "鄂州市", "lng": 114.89, "lat": 30.39, "province": "湖北省", "level": "地级市" },
+  { "name": "荆门市", "lng": 112.2, "lat": 31.04, "province": "湖北省", "level": "地级市" },
+  { "name": "孝感市", "lng": 113.92, "lat": 30.92, "province": "湖北省", "level": "地级市" },
+  { "name": "荆州市", "lng": 112.24, "lat": 30.33, "province": "湖北省", "level": "地级市" },
+  { "name": "黄冈市", "lng": 114.88, "lat": 30.45, "province": "湖北省", "level": "地级市" },
+  { "name": "咸宁市", "lng": 114.33, "lat": 29.84, "province": "湖北省", "level": "地级市" },
+  { "name": "随州市", "lng": 113.38, "lat": 31.69, "province": "湖北省", "level": "地级市" },
+  { "name": "恩施土家族苗族自治州", "lng": 109.48, "lat": 30.27, "province": "湖北省", "level": "自治州" },
+  { "name": "仙桃市", "lng": 113.44, "lat": 30.36, "province": "湖北省", "level": "省直辖县级市" },
+  { "name": "潜江市", "lng": 112.88, "lat": 30.4, "province": "湖北省", "level": "省直辖县级市" },
+  { "name": "天门市", "lng": 113.16, "lat": 30.66, "province": "湖北省", "level": "省直辖县级市" },
+  { "name": "神农架林区", "lng": 110.67, "lat": 31.74, "province": "湖北省", "level": "省直辖林区" }
+]

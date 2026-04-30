@@ -1,0 +1,1211 @@
+[
+  {
+    "id": 1,
+    "name": "立春",
+    "englishName": "Spring Begins",
+    "date": "02/03-02/05",
+    "description": "",
+    "foods": [
+      "韭菜",
+      "豆芽",
+      "春笋",
+      "葱",
+      "姜"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_lichun_north_1",
+        "name": "春饼",
+        "description": "迎春，象征团圆。",
+        "image": ""
+      },
+      {
+        "id": "solar_lichun_north_2",
+        "name": "咬春萝卜",
+        "description": "防病保健。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_lichun_south_1",
+        "name": "春卷",
+        "description": "迎春纳福，寓意万物复苏。",
+        "image": ""
+      },
+      {
+        "id": "solar_lichun_south_2",
+        "name": "萝卜",
+        "description": "咬春，解除春困。",
+        "image": ""
+      }
+    ],
+    "healthTip": "升发阳气，养肝护肝。宜食：韭菜、豆芽、春笋、葱、姜。忌食：酸味收涩食物（如醋、乌梅）。",
+    "astro": "",
+    "farming": "备耕开始，鞭春牛劝农。",
+    "customsText": "",
+    "heritageTitle": "九华立春祭 / 石阡说春 / 内乡打春牛 / 班春劝农",
+    "heritageTip": "核心是“迎春”与“鞭春牛”以劝耕；包含迎春、接春、祭春神、鞭春牛、春官派春帖、颁春令劝农等仪式。",
+    "image": "",
+    "philosophy": "二十四节气之首，阳气初生，天地解冻。",
+    "poetry": "“律回岁晚冰霜少，春到人间草木知。”（张栻《立春偶成》）",
+    "modern": "部分地区举办“咬春”美食节，弘扬传统食俗。"
+  },
+  {
+    "id": 2,
+    "name": "雨水",
+    "englishName": "Rain Water",
+    "date": "02/18-02/20",
+    "description": "",
+    "foods": [
+      "红枣",
+      "山药",
+      "小米",
+      "薏米"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_yushui_north_1",
+        "name": "韭菜盒子",
+        "description": "壮阳助春生。",
+        "image": ""
+      },
+      {
+        "id": "solar_yushui_north_2",
+        "name": "红枣粥",
+        "description": "健脾胃。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_yushui_south_1",
+        "name": "罐罐肉",
+        "description": "孝敬长辈，寓意长寿。",
+        "image": ""
+      },
+      {
+        "id": "solar_yushui_south_2",
+        "name": "龙须饼",
+        "description": "祈雨丰收。",
+        "image": ""
+      }
+    ],
+    "healthTip": "健脾祛湿，防寒湿。宜食：红枣、山药、小米、薏米。忌食：生冷油腻。",
+    "astro": "",
+    "farming": "冬小麦返青，需雨水滋润。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "天地交泰，万物萌动。",
+    "poetry": "“天将化雨舒清景，萌动生机待绿田。”（《七绝·雨水》）",
+    "modern": "南方“回娘家”习俗演变为亲情日。"
+  },
+  {
+    "id": 3,
+    "name": "惊蛰",
+    "englishName": "Insects Awaken",
+    "date": "03/05-03/07",
+    "description": "",
+    "foods": [
+      "梨",
+      "荠菜",
+      "菠菜",
+      "枸杞"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_jingzhe_north_1",
+        "name": "梨",
+        "description": "分离疾病，润肺。",
+        "image": ""
+      },
+      {
+        "id": "solar_jingzhe_north_2",
+        "name": "驴打滚",
+        "description": "象征昆虫翻滚。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_jingzhe_south_1",
+        "name": "炒虫（炒豆子）",
+        "description": "驱虫祈福。",
+        "image": ""
+      },
+      {
+        "id": "solar_jingzhe_south_2",
+        "name": "芋头",
+        "description": "避虫害。",
+        "image": ""
+      }
+    ],
+    "healthTip": "顺肝气，养脾气。宜食：梨、荠菜、菠菜、枸杞。忌食：辛辣、油炸。",
+    "astro": "",
+    "farming": "春耕正式拉开序幕。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "雷声发，蛰虫惊而出走，象征觉醒与新生。",
+    "poetry": "“微雨众卉新，一雷惊蛰始。”（韦应物《观田家》）",
+    "modern": "“打小人”演变为心理宣泄仪式。"
+  },
+  {
+    "id": 4,
+    "name": "春分",
+    "englishName": "Spring Equinox",
+    "date": "03/20-03/22",
+    "description": "",
+    "foods": [
+      "春菜（野苋菜）",
+      "豆芽",
+      "香椿"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_chunfen_north_1",
+        "name": "驴打滚",
+        "description": "同惊蛰，应季小吃。",
+        "image": ""
+      },
+      {
+        "id": "solar_chunfen_north_2",
+        "name": "春饼",
+        "description": "迎春。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_chunfen_south_1",
+        "name": "太阳糕",
+        "description": "祭太阳，祈求丰收。",
+        "image": ""
+      },
+      {
+        "id": "solar_chunfen_south_2",
+        "name": "春菜（野苋菜）",
+        "description": "采春菜，寓意家宅安宁。",
+        "image": ""
+      }
+    ],
+    "healthTip": "阴阳平衡，调和中气。宜食：春菜（野苋菜）、豆芽、香椿。忌食：大热大寒之物。",
+    "astro": "",
+    "farming": "早稻播种，农忙开始。",
+    "customsText": "",
+    "heritageTitle": "安仁赶分社",
+    "heritageTip": "为祭祀神农、祈求丰年举行的盛大社日活动，因与二十四节气紧密相关，被誉为节气“活化石”。",
+    "image": "",
+    "philosophy": "昼夜平分，阴阳平衡。",
+    "poetry": "“日月阳阴两均天，玄鸟不辞桃花寒。”（长卿《春分》）",
+    "modern": "竖蛋游戏成为全球性趣味活动。"
+  },
+  {
+    "id": 5,
+    "name": "清明",
+    "englishName": "Pure Brightness",
+    "date": "04/04-04/06",
+    "description": "",
+    "foods": [
+      "青团（艾草）",
+      "荠菜",
+      "菊花茶"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_qingming_north_1",
+        "name": "馓子",
+        "description": "寒食节传统。",
+        "image": ""
+      },
+      {
+        "id": "solar_qingming_north_2",
+        "name": "子推馍",
+        "description": "纪念介子推。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_qingming_south_1",
+        "name": "青团",
+        "description": "祭祖，纪念先人。",
+        "image": ""
+      },
+      {
+        "id": "solar_qingming_south_2",
+        "name": "清明螺",
+        "description": "清明螺，赛过鹅。",
+        "image": ""
+      }
+    ],
+    "healthTip": "清肝明目，防过敏。宜食：青团（艾草）、荠菜、菊花茶。忌食：发物（海鲜、羊肉）。",
+    "astro": "",
+    "farming": "“清明前后，种瓜点豆”。",
+    "customsText": "",
+    "heritageTitle": "介休寒食清明习俗",
+    "heritageTip": "融合寒食节“禁火冷食”与纪念介子推传统，常伴非遗集市、民俗展演等。",
+    "image": "",
+    "philosophy": "天清地明，追思与新生并存。",
+    "poetry": "“清明时节雨纷纷，路上行人欲断魂。”（杜牧《清明》）",
+    "modern": "法定假日，倡导绿色祭扫、踏青出游。"
+  },
+  {
+    "id": 6,
+    "name": "谷雨",
+    "englishName": "Grain Rain",
+    "date": "04/19-04/21",
+    "description": "",
+    "foods": [
+      "香椿",
+      "薏米",
+      "赤小豆",
+      "谷雨茶"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_guyu_north_1",
+        "name": "香椿拌豆腐",
+        "description": "清火。",
+        "image": ""
+      },
+      {
+        "id": "solar_guyu_north_2",
+        "name": "菠菜饼",
+        "description": "补铁。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_guyu_south_1",
+        "name": "谷雨茶",
+        "description": "清火明目。",
+        "image": ""
+      },
+      {
+        "id": "solar_guyu_south_2",
+        "name": "香椿炒蛋",
+        "description": "吃春，补充营养。",
+        "image": ""
+      }
+    ],
+    "healthTip": "健脾祛湿，防湿邪。宜食：香椿、薏米、赤小豆、谷雨茶。忌食：生冷瓜果。",
+    "astro": "",
+    "farming": "插秧、采茶忙。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "雨生百谷，最后的春意。",
+    "poetry": "“谷雨如丝复似尘，煮瓶浮蜡正尝新。”（范成大《晚春田园杂兴》）",
+    "modern": "联合国中文日（纪念仓颉），举办汉字文化周。"
+  },
+  {
+    "id": 7,
+    "name": "立夏",
+    "englishName": "Summer Begins",
+    "date": "05/05-05/07",
+    "description": "",
+    "foods": [
+      "莲子",
+      "小麦",
+      "苦瓜",
+      "绿豆"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_lixia_north_1",
+        "name": "夏饼",
+        "description": "麦收前尝新。",
+        "image": ""
+      },
+      {
+        "id": "solar_lixia_north_2",
+        "name": "面食",
+        "description": "庆祝小麦丰收。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_lixia_south_1",
+        "name": "立夏蛋",
+        "description": "强身健体，避免疰夏。",
+        "image": ""
+      },
+      {
+        "id": "solar_lixia_south_2",
+        "name": "五色饭",
+        "description": "五谷丰登。",
+        "image": ""
+      }
+    ],
+    "healthTip": "养心安神，防心烦。宜食：莲子、小麦、苦瓜、绿豆。忌食：辛辣、烧烤。",
+    "astro": "",
+    "farming": "夏收作物进入生长后期。",
+    "customsText": "",
+    "heritageTitle": "半山立夏习俗",
+    "heritageTip": "通过送春迎夏的仪式，表达顺应天时、祈福迎祥的愿望。",
+    "image": "",
+    "philosophy": "万物至此皆长大。",
+    "poetry": "“绿树阴浓夏日长，楼台倒影入池塘。”（高骈《山亭夏日》）",
+    "modern": "“称人”习俗演变为健康监测活动。"
+  },
+  {
+    "id": 8,
+    "name": "小满",
+    "englishName": "Grain Buds",
+    "date": "05/20-05/22",
+    "description": "",
+    "foods": [
+      "苦菜",
+      "冬瓜",
+      "赤小豆"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_xiaoman_north_1",
+        "name": "黄瓜",
+        "description": "补水消暑。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaoman_north_2",
+        "name": "蒜薹",
+        "description": "杀菌。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_xiaoman_south_1",
+        "name": "苦菜",
+        "description": "清热去火。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaoman_south_2",
+        "name": "枇杷",
+        "description": "润肺止咳。",
+        "image": ""
+      }
+    ],
+    "healthTip": "清热利湿，防皮肤问题。宜食：苦菜、冬瓜、赤小豆。忌食：肥甘厚味。",
+    "astro": "",
+    "farming": "麦类灌浆，水稻插秧。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "物致于此小得盈满，忌大满。",
+    "poetry": "“夜莺啼绿柳，皓月醒长空。”（欧阳修《小满》）",
+    "modern": "部分地区举办“祭车神”民俗文化节。"
+  },
+  {
+    "id": 9,
+    "name": "芒种",
+    "englishName": "Grain in Ear",
+    "date": "06/05-06/07",
+    "description": "",
+    "foods": [
+      "梅子",
+      "黄瓜",
+      "西瓜",
+      "绿豆汤"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_mangzhong_north_1",
+        "name": "打卤面",
+        "description": "补充体力。",
+        "image": ""
+      },
+      {
+        "id": "solar_mangzhong_north_2",
+        "name": "桑葚",
+        "description": "尝新，补充营养。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_mangzhong_south_1",
+        "name": "梅子",
+        "description": "煮梅消夏。",
+        "image": ""
+      },
+      {
+        "id": "solar_mangzhong_south_2",
+        "name": "粽子",
+        "description": "端午前奏，纪念屈原。",
+        "image": ""
+      }
+    ],
+    "healthTip": "清热解暑，生津止渴。宜食：梅子、黄瓜、西瓜、绿豆汤。忌食：过咸、过甜。",
+    "astro": "",
+    "farming": "夏收、夏种、夏管“三夏”大忙。",
+    "customsText": "",
+    "heritageTitle": "梅源芒种开犁节",
+    "heritageTip": "涵盖祭神田、犒牛、开犁、演酬神戏等环节，由畲汉两族共同传承。",
+    "image": "",
+    "philosophy": "有芒之谷可稼种，收种两忙。",
+    "poetry": "“时雨及芒种，四野皆插秧。”（陆游《时雨》）",
+    "modern": "学校组织“割麦体验”劳动教育。"
+  },
+  {
+    "id": 10,
+    "name": "夏至",
+    "englishName": "Summer Solstice",
+    "date": "06/21-06/22",
+    "description": "",
+    "foods": [
+      "夏至面（小麦）",
+      "苦瓜",
+      "荷叶"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_xiazhi_north_1",
+        "name": "面条",
+        "description": "长寿安康。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiazhi_north_2",
+        "name": "凉粉",
+        "description": "清凉解暑。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_xiazhi_south_1",
+        "name": "凉面",
+        "description": "消暑降温。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiazhi_south_2",
+        "name": "馄饨",
+        "description": "团圆美满。",
+        "image": ""
+      }
+    ],
+    "healthTip": "养心护阳，防暑热。宜食：夏至面（小麦）、苦瓜、荷叶。忌食：生冷、冰镇。",
+    "astro": "",
+    "farming": "杂草疯长，田间管理关键期。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "阳极阴生，一阴初起。",
+    "poetry": "“昼晷已云极，宵漏自此长。”（韦应物《夏至避暑北池》）",
+    "modern": "部分地区举办“夏至面”长桌宴。"
+  },
+  {
+    "id": 11,
+    "name": "小暑",
+    "englishName": "Minor Heat",
+    "date": "07/06-07/08",
+    "description": "",
+    "foods": [
+      "绿豆汤",
+      "莲藕",
+      "黄鳝"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_xiaoshu_north_1",
+        "name": "饺子",
+        "description": "开胃解馋。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaoshu_north_2",
+        "name": "凉拌茄子",
+        "description": "清热解暑。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_xiaoshu_south_1",
+        "name": "三鲜炒面",
+        "description": "补充营养，增强体质。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaoshu_south_2",
+        "name": "绿豆汤",
+        "description": "清热解毒，消暑降温。",
+        "image": ""
+      }
+    ],
+    "healthTip": "解暑祛湿，养脾胃。宜食：绿豆汤、莲藕、黄鳝。忌食：油腻、辛辣。",
+    "astro": "",
+    "farming": "棉花整枝，早稻收割。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "温风至，蟋蟀居宇，鹰始鸷。",
+    "poetry": "“倏忽温风至，因循小暑来。”（元稹《小暑六月节》）",
+    "modern": "城市社区组织“晒伏”活动，防霉防潮。"
+  },
+  {
+    "id": 12,
+    "name": "大暑",
+    "englishName": "Major Heat",
+    "date": "07/22-07/24",
+    "description": "",
+    "foods": [
+      "仙草",
+      "冬瓜",
+      "苦瓜",
+      "荷叶粥"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_dashu_north_1",
+        "name": "凉皮",
+        "description": "清凉爽口，消暑开胃。",
+        "image": ""
+      },
+      {
+        "id": "solar_dashu_north_2",
+        "name": "冰镇西瓜",
+        "description": "消暑解渴。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_dashu_south_1",
+        "name": "凤梨酥",
+        "description": "消暑解腻。",
+        "image": ""
+      },
+      {
+        "id": "solar_dashu_south_2",
+        "name": "仙草冻",
+        "description": "清凉解暑，消热败火。",
+        "image": ""
+      }
+    ],
+    "healthTip": "清热解暑，补充水分。宜食：仙草、冬瓜、苦瓜、荷叶粥。忌食：生冷、暴食。",
+    "astro": "",
+    "farming": "抗旱排涝，晚稻抢插。",
+    "customsText": "",
+    "heritageTitle": "送大暑船",
+    "heritageTip": "小暑到大暑期间举行送五圣等消灾祈福仪式，伴民间文艺表演，规模宏大。",
+    "image": "",
+    "philosophy": "炎热至极，腐草为萤。",
+    "poetry": "“大暑三秋近，林钟九夏移。”（元稹《大暑》）",
+    "modern": "沿海地区“送大暑船”列入非遗保护。"
+  },
+  {
+    "id": 13,
+    "name": "立秋",
+    "englishName": "Autumn Begins",
+    "date": "08/07-08/09",
+    "description": "",
+    "foods": [
+      "银耳",
+      "梨",
+      "蜂蜜",
+      "芝麻"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_liqiu_north_1",
+        "name": "贴秋膘（烤鸭）",
+        "description": "补充能量，储备脂肪。",
+        "image": ""
+      },
+      {
+        "id": "solar_liqiu_north_2",
+        "name": "茄鲞",
+        "description": "《红楼梦》中的经典菜肴，寓意精致生活。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_liqiu_south_1",
+        "name": "秋梨膏",
+        "description": "润燥养肺。",
+        "image": ""
+      },
+      {
+        "id": "solar_liqiu_south_2",
+        "name": "桂花糖藕",
+        "description": "甜蜜幸福。",
+        "image": ""
+      }
+    ],
+    "healthTip": "润肺防燥，贴秋膘。宜食：银耳、梨、蜂蜜、芝麻。忌食：辛辣、油炸。",
+    "astro": "",
+    "farming": "玉米抽雄，大豆结荚。",
+    "customsText": "",
+    "heritageTitle": "苗族赶秋",
+    "heritageTip": "苗族人民庆祝丰收、进行社会交往的重要节庆活动。",
+    "image": "",
+    "philosophy": "阴意出地，始杀万物。",
+    "poetry": "“乳鸦啼散玉屏空，一枕新凉一扇风。”（刘翰《立秋》）",
+    "modern": "“晒秋”成为乡村旅游亮点。"
+  },
+  {
+    "id": 14,
+    "name": "处暑",
+    "englishName": "Limit of Heat",
+    "date": "08/22-08/24",
+    "description": "",
+    "foods": [
+      "酸梅汤",
+      "银耳",
+      "百合"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_chushu_north_1",
+        "name": "百合莲子汤",
+        "description": "润燥安神。",
+        "image": ""
+      },
+      {
+        "id": "solar_chushu_north_2",
+        "name": "白切鸡",
+        "description": "补充蛋白质，增强体质。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_chushu_south_1",
+        "name": "鸭子",
+        "description": "处暑吃鸭，无病无灾。",
+        "image": ""
+      },
+      {
+        "id": "solar_chushu_south_2",
+        "name": "龙眼",
+        "description": "益气补血，安神定志。",
+        "image": ""
+      }
+    ],
+    "healthTip": "滋阴润燥，防秋乏。宜食：酸梅汤、银耳、百合。忌食：烧烤、辣椒。",
+    "astro": "",
+    "farming": "玉米收获，棉花吐絮。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "暑气至此而止，天地始肃。",
+    "poetry": "“离离暑云散，袅袅凉风起。”（白居易《早秋曲江感怀》）",
+    "modern": "开渔节盛大举行，千帆竞发。"
+  },
+  {
+    "id": 15,
+    "name": "白露",
+    "englishName": "White Dew",
+    "date": "09/07-09/09",
+    "description": "",
+    "foods": [
+      "龙眼",
+      "红薯",
+      "小米粥"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_bailu_north_1",
+        "name": "核桃",
+        "description": "补脑益肾。",
+        "image": ""
+      },
+      {
+        "id": "solar_bailu_north_2",
+        "name": "秋梨",
+        "description": "润肺止咳。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_bailu_south_1",
+        "name": "白露茶",
+        "description": "清热润燥。",
+        "image": ""
+      },
+      {
+        "id": "solar_bailu_south_2",
+        "name": "番薯糖水",
+        "description": "健脾养胃。",
+        "image": ""
+      }
+    ],
+    "healthTip": "润肺生津，防秋燥。宜食：龙眼、红薯、小米粥。忌食：生冷、海鲜。",
+    "astro": "",
+    "farming": "秋收作物成熟，秋种开始。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "阴气渐重，露凝而白。",
+    "poetry": "“露从今夜白，月是故乡明。”（杜甫《月夜忆舍弟》）",
+    "modern": "养生讲座普及“白露不露身”。"
+  },
+  {
+    "id": 16,
+    "name": "秋分",
+    "englishName": "Autumn Equinox",
+    "date": "09/22-09/24",
+    "description": "",
+    "foods": [
+      "芋头",
+      "山药",
+      "石榴"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_qiufen_north_1",
+        "name": "秋菜",
+        "description": "秋分吃秋菜，一年无病无灾。",
+        "image": ""
+      },
+      {
+        "id": "solar_qiufen_north_2",
+        "name": "炖南瓜",
+        "description": "丰收的象征，营养丰富。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_qiufen_south_1",
+        "name": "螃蟹",
+        "description": "秋风起，蟹脚痒，正是品蟹好时节。",
+        "image": ""
+      },
+      {
+        "id": "solar_qiufen_south_2",
+        "name": "桂花糕",
+        "description": "金秋时节，桂花飘香。",
+        "image": ""
+      }
+    ],
+    "healthTip": "阴阳平衡，润肺健脾。宜食：芋头、山药、石榴。忌食：辛辣、生冷。",
+    "astro": "",
+    "farming": "秋收、秋耕、秋种“三秋”大忙。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "昼夜均，寒暑平。",
+    "poetry": "“金气秋分，风清露冷秋期半。”（谢逸《点绛唇》）",
+    "modern": "中国农民丰收节（2018年设立）。"
+  },
+  {
+    "id": 17,
+    "name": "寒露",
+    "englishName": "Cold Dew",
+    "date": "10/08-10/09",
+    "description": "",
+    "foods": [
+      "螃蟹",
+      "柿子",
+      "芝麻"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_hanlu_north_1",
+        "name": "羊肉汤",
+        "description": "温补驱寒。",
+        "image": ""
+      },
+      {
+        "id": "solar_hanlu_north_2",
+        "name": "柿子",
+        "description": "事事如意。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_hanlu_south_1",
+        "name": "菊花酒",
+        "description": "祛灾祈福，延年益寿。",
+        "image": ""
+      },
+      {
+        "id": "solar_hanlu_south_2",
+        "name": "芝麻糊",
+        "description": "滋补肝肾，润燥滑肠。",
+        "image": ""
+      }
+    ],
+    "healthTip": "养阴防燥，暖足保暖。宜食：螃蟹、柿子、芝麻。忌食：寒凉瓜果。",
+    "astro": "",
+    "farming": "小麦播种，晚稻收割。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "露气寒冷，将凝结也。",
+    "poetry": "“袅袅凉风动，凄凄寒露零。”（白居易《池上》）",
+    "modern": "登高、赏菊成为老年大学主题活动。"
+  },
+  {
+    "id": 18,
+    "name": "霜降",
+    "englishName": "Frost Descent",
+    "date": "10/23-10/24",
+    "description": "",
+    "foods": [
+      "柿子",
+      "萝卜",
+      "牛肉"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_shuangjiang_north_1",
+        "name": "萝卜丸子",
+        "description": "秋冬养生，顺时而食。",
+        "image": ""
+      },
+      {
+        "id": "solar_shuangjiang_north_2",
+        "name": "涮羊肉",
+        "description": "驱寒保暖，团圆共享。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_shuangjiang_south_1",
+        "name": "柿饼",
+        "description": "事事如意，甜蜜富足。",
+        "image": ""
+      },
+      {
+        "id": "solar_shuangjiang_south_2",
+        "name": "板栗烧鸡",
+        "description": "丰衣足食。",
+        "image": ""
+      }
+    ],
+    "healthTip": "补脾养胃，防寒保暖。宜食：柿子、萝卜、牛肉。忌食：生冷、辛辣。",
+    "astro": "",
+    "farming": "秋收扫尾，冬麦出苗。",
+    "customsText": "",
+    "heritageTitle": "壮族霜降节",
+    "heritageTip": "为期九天，含祭祀祈福、歌圩、商贸等内容，体现酬谢自然与庆丰收。",
+    "image": "",
+    "philosophy": "气肃而凝，露结为霜。",
+    "poetry": "“停车坐爱枫林晚，霜叶红于二月花。”（杜牧《山行》）",
+    "modern": "柿子节、红叶节吸引游客。"
+  },
+  {
+    "id": 19,
+    "name": "立冬",
+    "englishName": "Winter Begins",
+    "date": "11/07-11/08",
+    "description": "",
+    "foods": [
+      "羊肉",
+      "黑芝麻",
+      "核桃"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_lidong_north_1",
+        "name": "饺子",
+        "description": "安耳朵，防冻疮。",
+        "image": ""
+      },
+      {
+        "id": "solar_lidong_north_2",
+        "name": "铜锅涮肉",
+        "description": "驱寒保暖，家人团聚。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_lidong_south_1",
+        "name": "羊肉炉",
+        "description": "驱寒进补，暖身暖心。",
+        "image": ""
+      },
+      {
+        "id": "solar_lidong_south_2",
+        "name": "糍粑",
+        "description": "团圆甜蜜，庆祝丰收。",
+        "image": ""
+      }
+    ],
+    "healthTip": "补肾藏精，温补养阳。宜食：羊肉、黑芝麻、核桃。忌食：生冷、寒凉。",
+    "astro": "",
+    "farming": "农田基本建设，积肥造肥。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "水始冰，地始冻，万物收藏。",
+    "poetry": "“秋风吹尽旧庭柯，黄叶丹枫客里过。”（王稚登《立冬》）",
+    "modern": "冬泳活动在北方兴起。"
+  },
+  {
+    "id": 20,
+    "name": "小雪",
+    "englishName": "Minor Snow",
+    "date": "11/22-11/23",
+    "description": "",
+    "foods": [
+      "糍粑",
+      "黑米",
+      "红枣"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_xiaoxue_north_1",
+        "name": "涮羊肉",
+        "description": "驱寒保暖，滋养身体。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaoxue_north_2",
+        "name": "冻梨",
+        "description": "冬日消遣，别样风味。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_xiaoxue_south_1",
+        "name": "腊肉",
+        "description": "储存冬粮，迎接新年。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaoxue_south_2",
+        "name": "刨汤",
+        "description": "杀年猪，庆丰收。",
+        "image": ""
+      }
+    ],
+    "healthTip": "温补肾阳，防抑郁。宜食：糍粑、黑米、红枣。忌食：辛辣、烧烤。",
+    "astro": "",
+    "farming": "果树涂白，大棚管理。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "虹藏不见，闭塞成冬。",
+    "poetry": "“小雪晴沙不作泥，疏帘红日弄朝晖。”（黄庭坚《小雪》）",
+    "modern": "腌菜DIY体验活动流行。"
+  },
+  {
+    "id": 21,
+    "name": "大雪",
+    "englishName": "Major Snow",
+    "date": "12/06-12/08",
+    "description": "",
+    "foods": [
+      "羊肉",
+      "萝卜",
+      "白菜"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_daxue_north_1",
+        "name": "酸菜白肉",
+        "description": "冬储蔬菜，家常美味。",
+        "image": ""
+      },
+      {
+        "id": "solar_daxue_north_2",
+        "name": "烤红薯",
+        "description": "街头温暖，童年回忆。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_daxue_south_1",
+        "name": "羊肉粉",
+        "description": "驱寒暖胃，滋补身体。",
+        "image": ""
+      },
+      {
+        "id": "solar_daxue_south_2",
+        "name": "糖炒栗子",
+        "description": "冬日温暖，甜蜜相伴。",
+        "image": ""
+      }
+    ],
+    "healthTip": "温补御寒，养肾防寒。宜食：羊肉、萝卜、白菜。忌食：生冷、海鲜。",
+    "astro": "",
+    "farming": "冬小麦镇压，防冻保苗。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "阴气最盛，盛极而衰。",
+    "poetry": "“已讶衾枕冷，复见窗户明。”（白居易《夜雪》）",
+    "modern": "滑雪旅游节拉开序幕。"
+  },
+  {
+    "id": 22,
+    "name": "冬至",
+    "englishName": "Winter Solstice",
+    "date": "12/21-12/23",
+    "description": "",
+    "foods": [
+      "汤圆（糯米）",
+      "羊肉",
+      "姜"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_dongzhi_north_1",
+        "name": "饺子",
+        "description": "不 eat 饺子，耳朵会被冻掉。",
+        "image": ""
+      },
+      {
+        "id": "solar_dongzhi_north_2",
+        "name": "羊肉汤",
+        "description": "驱寒补身，温暖过冬。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_dongzhi_south_1",
+        "name": "汤圆",
+        "description": "团圆美满，幸福安康。",
+        "image": ""
+      },
+      {
+        "id": "solar_dongzhi_south_2",
+        "name": "冬酿酒",
+        "description": "辞旧迎新，祈福纳祥。",
+        "image": ""
+      }
+    ],
+    "healthTip": "补阳暖身，养肾防寒。宜食：汤圆（糯米）、羊肉、姜。忌食：寒凉、油腻。",
+    "astro": "",
+    "farming": "冬灌、积肥、修农具。",
+    "customsText": "",
+    "heritageTitle": "三门祭冬",
+    "heritageTip": "冬至举行的隆重祭祖仪式，宗族文化重要体现，程式完整。",
+    "image": "",
+    "philosophy": "阴极之至，阳气始生。",
+    "poetry": "“天时人事日相催，冬至阳生春又来。”（杜甫《小至》）",
+    "modern": "数九寒天开始，“九九消寒图”文化复兴。"
+  },
+  {
+    "id": 23,
+    "name": "小寒",
+    "englishName": "Minor Cold",
+    "date": "01/05-01/07",
+    "description": "",
+    "foods": [
+      "糯米饭",
+      "腊八粥",
+      "红枣"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_xiaohan_north_1",
+        "name": "涮羊肉",
+        "description": "驱寒保暖，滋养身体。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaohan_north_2",
+        "name": "冻豆腐",
+        "description": "冬日储存，风味独特。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_xiaohan_south_1",
+        "name": "腊八粥",
+        "description": "祈求丰收，合家团圆。",
+        "image": ""
+      },
+      {
+        "id": "solar_xiaohan_south_2",
+        "name": "年糕",
+        "description": "年年高升。",
+        "image": ""
+      }
+    ],
+    "healthTip": "温补脾肾，防寒保暖。宜食：糯米饭、腊八粥、红枣。忌食：生冷、粘腻。",
+    "astro": "",
+    "farming": "冬闲季节，开展技术培训。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "天渐寒，尚未大冷。",
+    "poetry": "“小寒连大吕，欢鹊垒新巢。”（元稹《小寒》）",
+    "modern": "腊八节施粥成为社区公益。"
+  },
+  {
+    "id": 24,
+    "name": "大寒",
+    "englishName": "Major Cold",
+    "date": "01/20-01/21",
+    "description": "",
+    "foods": [
+      "八宝饭",
+      "糯米",
+      "桂圆"
+    ],
+    "northFoods": [
+      {
+        "id": "solar_dahan_north_1",
+        "name": "饺子",
+        "description": "更岁交子，团圆吉祥。",
+        "image": ""
+      },
+      {
+        "id": "solar_dahan_north_2",
+        "name": "酸菜炖粉条",
+        "description": "冬日暖身，家的味道。",
+        "image": ""
+      }
+    ],
+    "southFoods": [
+      {
+        "id": "solar_dahan_south_1",
+        "name": "八宝饭",
+        "description": "甜甜蜜蜜，团团圆圆。",
+        "image": ""
+      },
+      {
+        "id": "solar_dahan_south_2",
+        "name": "腊肠",
+        "description": "年味浓郁，准备过年。",
+        "image": ""
+      }
+    ],
+    "healthTip": "温补养肾，为春生做准备。宜食：八宝饭、糯米、桂圆。忌食：生冷、过度进补。",
+    "astro": "",
+    "farming": "备耕、选种、修农机。",
+    "customsText": "",
+    "heritageTitle": "无",
+    "heritageTip": "无",
+    "image": "",
+    "philosophy": "寒气之逆极，坚冰深处春水生。",
+    "poetry": "“旧雪未及消，新雪又拥户。”（邵雍《大寒吟》）",
+    "modern": "年货节、尾牙宴，春节氛围浓厚。"
+  }
+]

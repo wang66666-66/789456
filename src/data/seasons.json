@@ -1,0 +1,63 @@
+[
+  {
+    "name": "春季",
+    "english": "Spring",
+    "color": "#E8F5E9",
+    "icon": "🌱",
+    "months": "3月-5月",
+    "solarTerms": ["立春", "雨水", "惊蛰", "春分", "清明", "谷雨"],
+    "representativeFoods": [
+      { "name": "腌笃鲜", "cuisine": "苏菜", "description": "春笋、咸肉、鲜肉慢炖，鲜掉眉毛" },
+      { "name": "荠菜馄饨", "cuisine": "浙菜", "description": "野生荠菜配猪肉，清香扑鼻" },
+      { "name": "香椿炒蛋", "cuisine": "家常", "description": "香椿嫩芽与鸡蛋同炒，独特香气" }
+    ],
+    "healthTip": "养肝为先，多吃绿色蔬菜",
+    "bestCuisines": ["苏菜", "浙菜", "徽菜"]
+  },
+  {
+    "name": "夏季",
+    "english": "Summer",
+    "color": "#FFEBEE",
+    "icon": "☀️",
+    "months": "6月-8月",
+    "solarTerms": ["立夏", "小满", "芒种", "夏至", "小暑", "大暑"],
+    "representativeFoods": [
+      { "name": "冬瓜盅", "cuisine": "粤菜", "description": "冬瓜为盅，内藏虾仁、干贝，清热解暑" },
+      { "name": "凉拌苦瓜", "cuisine": "家常", "description": "苦瓜焯水凉拌，清火降燥" },
+      { "name": "荷叶粉蒸肉", "cuisine": "浙菜", "description": "五花肉裹米粉，荷叶包裹蒸制，不腻清香" }
+    ],
+    "healthTip": "养心健脾，宜清淡少油腻",
+    "bestCuisines": ["粤菜", "川菜（凉菜）", "湘菜（酸辣）"]
+  },
+  {
+    "name": "秋季",
+    "english": "Autumn",
+    "color": "#FFF8E1",
+    "icon": "🍂",
+    "months": "9月-11月",
+    "solarTerms": ["立秋", "处暑", "白露", "秋分", "寒露", "霜降"],
+    "representativeFoods": [
+      { "name": "清蒸大闸蟹", "cuisine": "苏菜", "description": "阳澄湖大闸蟹，蟹黄肥美" },
+      { "name": "桂花糯米藕", "cuisine": "浙菜", "description": "藕孔塞糯米，桂花糖水熬煮，甜糯" },
+      { "name": "板栗烧鸡", "cuisine": "徽菜", "description": "板栗粉糯，鸡肉鲜嫩，秋冬滋补" }
+    ],
+    "healthTip": "润肺防燥，多食梨、藕、百合",
+    "bestCuisines": ["苏菜", "浙菜", "鲁菜（海鲜）"]
+  },
+  {
+    "name": "冬季",
+    "english": "Winter",
+    "color": "#E3F2FD",
+    "icon": "❄️",
+    "months": "12月-2月",
+    "solarTerms": ["立冬", "小雪", "大雪", "冬至", "小寒", "大寒"],
+    "representativeFoods": [
+      { "name": "羊肉汤", "cuisine": "鲁菜", "description": "单县羊肉汤，奶白浓香" },
+      { "name": "腊味合蒸", "cuisine": "湘菜", "description": "腊肉、腊肠、腊鱼同蒸，咸香下饭" },
+      { "name": "火锅", "cuisine": "川渝", "description": "牛油锅底，涮一切" }
+    ],
+    "healthTip": "补肾藏精，适当温补",
+    "bestCuisines": ["鲁菜", "徽菜", "川渝火锅"]
+  }
+]
+

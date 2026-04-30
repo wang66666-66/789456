@@ -1,0 +1,83 @@
+[
+  {
+    "name": "川菜",
+    "icon": "🌶️",
+    "region": "四川、重庆",
+    "flavors": ["麻辣", "鱼香", "酸辣", "红油"],
+    "representativeDishes": ["麻婆豆腐", "宫保鸡丁", "水煮鱼", "夫妻肺片"],
+    "bestSeason": ["四季皆宜", "夏季开胃"],
+    "color": "#FADCD9",
+    "mapHighlight": "四川省,重庆市"
+  },
+  {
+    "name": "粤菜",
+    "icon": "🥟",
+    "region": "广东、广西东部",
+    "flavors": ["清淡", "鲜香", "原汁原味"],
+    "representativeDishes": ["白切鸡", "清蒸海鲜", "烧鹅", "虾饺"],
+    "bestSeason": ["春", "夏", "秋"],
+    "color": "#FFF2CC",
+    "mapHighlight": "广东省"
+  },
+  {
+    "name": "苏菜",
+    "icon": "🍜",
+    "region": "江苏",
+    "flavors": ["鲜甜", "酥烂", "刀工精细"],
+    "representativeDishes": ["松鼠鳜鱼", "清炖蟹粉狮子头", "大煮干丝"],
+    "bestSeason": ["春季", "秋季"],
+    "color": "#D9EAD3",
+    "mapHighlight": "江苏省"
+  },
+  {
+    "name": "浙菜",
+    "icon": "🐟",
+    "region": "浙江",
+    "flavors": ["鲜嫩", "爽滑", "清香"],
+    "representativeDishes": ["西湖醋鱼", "龙井虾仁", "东坡肉"],
+    "bestSeason": ["春季", "秋季"],
+    "color": "#D0E0E3",
+    "mapHighlight": "浙江省"
+  },
+  {
+    "name": "闽菜",
+    "icon": "🍲",
+    "region": "福建",
+    "flavors": ["鲜香", "清淡", "善用高汤"],
+    "representativeDishes": ["佛跳墙", "荔枝肉", "沙茶面"],
+    "bestSeason": ["秋冬"],
+    "color": "#EAD1DC",
+    "mapHighlight": "福建省"
+  },
+  {
+    "name": "湘菜",
+    "icon": "🌶️",
+    "region": "湖南",
+    "flavors": ["香辣", "酸辣", "腊味"],
+    "representativeDishes": ["剁椒鱼头", "腊味合蒸", "小炒黄牛肉"],
+    "bestSeason": ["夏季", "冬季"],
+    "color": "#FCE5CD",
+    "mapHighlight": "湖南省"
+  },
+  {
+    "name": "徽菜",
+    "icon": "🍄",
+    "region": "安徽",
+    "flavors": ["咸鲜", "火候足", "重油"],
+    "representativeDishes": ["臭鳜鱼", "毛豆腐", "胡适一品锅"],
+    "bestSeason": ["秋", "冬"],
+    "color": "#D9D2E9",
+    "mapHighlight": "安徽省"
+  },
+  {
+    "name": "鲁菜",
+    "icon": "🦐",
+    "region": "山东",
+    "flavors": ["咸鲜", "火候精湛", "汤汁浓白"],
+    "representativeDishes": ["葱烧海参", "九转大肠", "油焖大虾"],
+    "bestSeason": ["秋", "冬"],
+    "color": "#BDD7EE",
+    "mapHighlight": "山东省"
+  }
+]
+

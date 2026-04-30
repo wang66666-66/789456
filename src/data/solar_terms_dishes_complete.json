@@ -1,0 +1,2212 @@
+{
+  "dishes": [
+    {
+      "id": "solar_lichun_south_1",
+      "name": "春卷",
+      "region": "南方",
+      "category": "立春",
+      "cultural_meaning": "迎春纳福，寓意万物复苏。",
+      "flavor": "外酥里嫩，馅料鲜美。",
+      "ingredients": [
+        "春卷皮",
+        "豆芽",
+        "香菇",
+        "肉丝",
+        "粉丝"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "春卷由春饼演变而来，宋代已有记载。"
+        }
+      ],
+      "poem": {
+        "content": "春到人间一卷之",
+        "dynasty": "清",
+        "author": "林兰痴",
+        "source": "《邗江三百吟》"
+      },
+      "technique": "馅料炒熟，包入春卷皮，炸至金黄。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lichun_south_2",
+      "name": "萝卜",
+      "region": "南方",
+      "category": "立春",
+      "cultural_meaning": "咬春，解除春困。",
+      "flavor": "清脆微辣。",
+      "ingredients": [
+        "白萝卜"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "《酌中志》载立春之时，无贵贱皆嚼萝卜。"
+        }
+      ],
+      "poem": {},
+      "technique": "生吃或凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lichun_north_1",
+      "name": "春饼",
+      "region": "北方",
+      "category": "立春",
+      "cultural_meaning": "迎春，象征团圆。",
+      "flavor": "饼薄柔软，配菜丰富。",
+      "ingredients": [
+        "面粉",
+        "绿豆芽",
+        "韭菜",
+        "鸡蛋",
+        "酱肉"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "《四时宝镜》载立春日食春饼。"
+        }
+      ],
+      "poem": {
+        "content": "春日春盘细生菜",
+        "dynasty": "唐",
+        "author": "杜甫",
+        "source": "《立春》"
+      },
+      "technique": "烙制薄饼，卷合菜食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lichun_north_2",
+      "name": "咬春萝卜",
+      "region": "北方",
+      "category": "立春",
+      "cultural_meaning": "防病保健。",
+      "flavor": "辛辣爽口。",
+      "ingredients": [
+        "心里美萝卜"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "北京人立春食萝卜，谓之咬春。"
+        }
+      ],
+      "poem": {},
+      "technique": "切块生食。",
+      "intangible": null
+    },
+    {
+      "id": "solar_yushui_south_1",
+      "name": "罐罐肉",
+      "region": "南方",
+      "category": "雨水",
+      "cultural_meaning": "孝敬长辈，寓意长寿。",
+      "flavor": "肉质软烂，汤汁浓郁。",
+      "ingredients": [
+        "猪蹄",
+        "黄豆",
+        "海带",
+        "姜"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "四川地区雨水节给父母送罐罐肉。"
+        }
+      ],
+      "poem": {},
+      "technique": "砂罐慢炖2小时。",
+      "intangible": null
+    },
+    {
+      "id": "solar_yushui_south_2",
+      "name": "龙须饼",
+      "region": "南方",
+      "category": "雨水",
+      "cultural_meaning": "祈雨丰收。",
+      "flavor": "酥脆香甜。",
+      "ingredients": [
+        "面粉",
+        "糖",
+        "芝麻"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "雨水节吃龙须饼纪念龙王。"
+        }
+      ],
+      "poem": {},
+      "technique": "拉丝成细条，油炸挂糖浆。",
+      "intangible": null
+    },
+    {
+      "id": "solar_yushui_north_1",
+      "name": "韭菜盒子",
+      "region": "北方",
+      "category": "雨水",
+      "cultural_meaning": "壮阳助春生。",
+      "flavor": "外皮焦脆，韭菜鲜香。",
+      "ingredients": [
+        "面粉",
+        "韭菜",
+        "鸡蛋",
+        "粉条"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "北方常见时令面食。"
+        }
+      ],
+      "poem": {},
+      "technique": "半烫面，包馅烙熟。",
+      "intangible": null
+    },
+    {
+      "id": "solar_yushui_north_2",
+      "name": "红枣粥",
+      "region": "北方",
+      "category": "雨水",
+      "cultural_meaning": "健脾胃。",
+      "flavor": "甜糯暖胃。",
+      "ingredients": [
+        "大米",
+        "红枣",
+        "枸杞"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "雨水节气养生粥。"
+        }
+      ],
+      "poem": {},
+      "technique": "熬煮成粥。",
+      "intangible": null
+    },
+    {
+      "id": "solar_jingzhe_south_1",
+      "name": "炒虫（炒豆子）",
+      "region": "南方",
+      "category": "惊蛰",
+      "cultural_meaning": "驱虫祈福。",
+      "flavor": "香脆咸香。",
+      "ingredients": [
+        "黄豆",
+        "盐"
+      ],
+      "history": [
+        {
+          "period": "明清",
+          "record": "广西、江西等地惊蛰炒豆，称炒虫。"
+        }
+      ],
+      "poem": {},
+      "technique": "干炒黄豆至酥脆。",
+      "intangible": null
+    },
+    {
+      "id": "solar_jingzhe_south_2",
+      "name": "芋头",
+      "region": "南方",
+      "category": "惊蛰",
+      "cultural_meaning": "避虫害。",
+      "flavor": "软糯香甜。",
+      "ingredients": [
+        "芋头"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "福建等地惊蛰吃芋头。"
+        }
+      ],
+      "poem": {},
+      "technique": "蒸熟蘸糖。",
+      "intangible": null
+    },
+    {
+      "id": "solar_jingzhe_north_1",
+      "name": "梨",
+      "region": "北方",
+      "category": "惊蛰",
+      "cultural_meaning": "分离疾病，润肺。",
+      "flavor": "清甜多汁。",
+      "ingredients": [
+        "梨"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "惊蛰吃梨，远离疾病。"
+        }
+      ],
+      "poem": {},
+      "technique": "生食或煮水。",
+      "intangible": null
+    },
+    {
+      "id": "solar_jingzhe_north_2",
+      "name": "驴打滚",
+      "region": "北方",
+      "category": "惊蛰",
+      "cultural_meaning": "象征昆虫翻滚。",
+      "flavor": "软糯豆香。",
+      "ingredients": [
+        "糯米粉",
+        "黄豆面",
+        "红豆沙"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "北京小吃，惊蛰吃寓意驱虫。"
+        }
+      ],
+      "poem": {},
+      "technique": "糯米卷豆沙，滚黄豆面。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chunfen_south_1",
+      "name": "太阳糕",
+      "region": "南方",
+      "category": "春分",
+      "cultural_meaning": "祭太阳，祈求丰收。",
+      "flavor": "甜糯。",
+      "ingredients": [
+        "糯米粉",
+        "枣泥",
+        "糖"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "春分日供太阳糕。"
+        }
+      ],
+      "poem": {},
+      "technique": "蒸制，印太阳图案。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chunfen_south_2",
+      "name": "春菜（野苋菜）",
+      "region": "南方",
+      "category": "春分",
+      "cultural_meaning": "采春菜，寓意家宅安宁。",
+      "flavor": "清香微苦。",
+      "ingredients": [
+        "野苋菜",
+        "鱼片"
+      ],
+      "history": [
+        {
+          "period": "岭南",
+          "record": "春分日采春菜滚汤。"
+        }
+      ],
+      "poem": {},
+      "technique": "与鱼片煮汤。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chunfen_north_1",
+      "name": "驴打滚",
+      "region": "北方",
+      "category": "春分",
+      "cultural_meaning": "同惊蛰，应季小吃。",
+      "flavor": "软糯豆香。",
+      "ingredients": [
+        "糯米粉",
+        "黄豆面",
+        "红豆沙"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "老北京春分吃驴打滚。"
+        }
+      ],
+      "poem": {},
+      "technique": "同惊蛰。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chunfen_north_2",
+      "name": "春饼",
+      "region": "北方",
+      "category": "春分",
+      "cultural_meaning": "迎春。",
+      "flavor": "薄软卷菜。",
+      "ingredients": [
+        "面粉",
+        "豆芽",
+        "菠菜",
+        "粉丝"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "春分也有食春饼习俗。"
+        }
+      ],
+      "poem": {},
+      "technique": "烙饼卷合菜。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qingming_south_1",
+      "name": "青团",
+      "region": "南方",
+      "category": "清明",
+      "cultural_meaning": "祭祖，纪念先人。",
+      "flavor": "软糯清香，甜咸皆宜。",
+      "ingredients": [
+        "糯米粉",
+        "艾草汁",
+        "豆沙",
+        "肉松"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "寒食节冷食，后融入清明。"
+        }
+      ],
+      "poem": {
+        "content": "清明时节雨纷纷，路上行人欲断魂。借问酒家何处有，牧童遥指杏花村。",
+        "dynasty": "唐",
+        "author": "杜牧",
+        "source": "《清明》"
+      },
+      "technique": "艾草汁和面，包馅蒸熟。",
+      "intangible": {
+        "level": "省级非遗",
+        "year": 2015,
+        "inheritor": "江南青团制作技艺",
+        "category": "传统面点"
+      }
+    },
+    {
+      "id": "solar_qingming_south_2",
+      "name": "清明螺",
+      "region": "南方",
+      "category": "清明",
+      "cultural_meaning": "清明螺，赛过鹅。",
+      "flavor": "鲜辣Q弹。",
+      "ingredients": [
+        "田螺",
+        "紫苏",
+        "辣椒",
+        "姜蒜"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "民间谚语，清明食螺明目。"
+        }
+      ],
+      "poem": {},
+      "technique": "剪尾，爆炒。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qingming_north_1",
+      "name": "馓子",
+      "region": "北方",
+      "category": "清明",
+      "cultural_meaning": "寒食节传统。",
+      "flavor": "酥脆咸香。",
+      "ingredients": [
+        "面粉",
+        "芝麻",
+        "盐"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "寒食节炸馓子冷食。"
+        }
+      ],
+      "poem": {},
+      "technique": "拉条油炸成细丝。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qingming_north_2",
+      "name": "子推馍",
+      "region": "北方",
+      "category": "清明",
+      "cultural_meaning": "纪念介子推。",
+      "flavor": "麦香浓郁。",
+      "ingredients": [
+        "面粉",
+        "红枣",
+        "黑豆"
+      ],
+      "history": [
+        {
+          "period": "春秋",
+          "record": "为纪念介子推而制。"
+        }
+      ],
+      "poem": {},
+      "technique": "捏成燕子、蛇等形状，蒸制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_guyu_south_1",
+      "name": "谷雨茶",
+      "region": "南方",
+      "category": "谷雨",
+      "cultural_meaning": "清火明目。",
+      "flavor": "清香甘醇。",
+      "ingredients": [
+        "谷雨当天采的茶青"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "《茶疏》载谷雨茶最好。"
+        }
+      ],
+      "poem": {
+        "content": "谷雨收寒，茶烟飏晓，又是牡丹时候。",
+        "dynasty": "宋",
+        "author": "王沂孙",
+        "source": "《锁窗寒》"
+      },
+      "technique": "炒青绿茶。",
+      "intangible": null
+    },
+    {
+      "id": "solar_guyu_south_2",
+      "name": "香椿炒蛋",
+      "region": "南方",
+      "category": "谷雨",
+      "cultural_meaning": "吃春，补充营养。",
+      "flavor": "香椿独特香气，蛋嫩滑。",
+      "ingredients": [
+        "香椿嫩芽",
+        "鸡蛋",
+        "盐"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "《本草纲目》记载香椿。"
+        }
+      ],
+      "poem": {},
+      "technique": "香椿焯水切碎，与蛋液混合炒熟。",
+      "intangible": null
+    },
+    {
+      "id": "solar_guyu_north_1",
+      "name": "香椿拌豆腐",
+      "region": "北方",
+      "category": "谷雨",
+      "cultural_meaning": "清火。",
+      "flavor": "清爽鲜香。",
+      "ingredients": [
+        "香椿",
+        "豆腐",
+        "盐",
+        "香油"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方家常菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "香椿焯水切碎，与豆腐凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_guyu_north_2",
+      "name": "菠菜饼",
+      "region": "北方",
+      "category": "谷雨",
+      "cultural_meaning": "补铁。",
+      "flavor": "软糯清香。",
+      "ingredients": [
+        "菠菜",
+        "面粉",
+        "鸡蛋"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方春季时令饼。"
+        }
+      ],
+      "poem": {},
+      "technique": "菠菜打汁和面，烙饼。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lixia_south_1",
+      "name": "立夏蛋",
+      "region": "南方",
+      "category": "立夏",
+      "cultural_meaning": "强身健体，避免疰夏。",
+      "flavor": "茶香入味。",
+      "ingredients": [
+        "鸡蛋",
+        "茶叶",
+        "八角",
+        "桂皮"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "立夏吃蛋，石头踩烂。"
+        }
+      ],
+      "poem": {},
+      "technique": "茶叶蛋卤煮。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lixia_south_2",
+      "name": "五色饭",
+      "region": "南方",
+      "category": "立夏",
+      "cultural_meaning": "五谷丰登。",
+      "flavor": "咸香多彩。",
+      "ingredients": [
+        "糯米",
+        "豌豆",
+        "香菇",
+        "咸肉",
+        "笋丁"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "立夏吃五色饭，防疰夏。"
+        }
+      ],
+      "poem": {},
+      "technique": "食材炒后与糯米同蒸。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lixia_north_1",
+      "name": "夏饼",
+      "region": "北方",
+      "category": "立夏",
+      "cultural_meaning": "麦收前尝新。",
+      "flavor": "外脆里软。",
+      "ingredients": [
+        "面粉",
+        "芝麻",
+        "盐"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "山东等地立夏吃夏饼。"
+        }
+      ],
+      "poem": {},
+      "technique": "面团擀薄，烙制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lixia_north_2",
+      "name": "面食",
+      "region": "北方",
+      "category": "立夏",
+      "cultural_meaning": "庆祝小麦丰收。",
+      "flavor": "筋道。",
+      "ingredients": [
+        "面粉"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方立夏吃面食。"
+        }
+      ],
+      "poem": {},
+      "technique": "手擀面或蒸馒头。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoman_south_1",
+      "name": "苦菜",
+      "region": "南方",
+      "category": "小满",
+      "cultural_meaning": "清热去火。",
+      "flavor": "微苦回甘。",
+      "ingredients": [
+        "苦菜",
+        "蒜",
+        "醋"
+      ],
+      "history": [
+        {
+          "period": "《周书》",
+          "record": "小满之日苦菜秀。"
+        }
+      ],
+      "poem": {},
+      "technique": "焯水凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoman_south_2",
+      "name": "枇杷",
+      "region": "南方",
+      "category": "小满",
+      "cultural_meaning": "润肺止咳。",
+      "flavor": "酸甜多汁。",
+      "ingredients": [
+        "枇杷"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "小满枇杷半坡黄。"
+        }
+      ],
+      "poem": {
+        "content": "枇杷著花当仲冬，紫茸成荫夏初熟。",
+        "dynasty": "宋",
+        "author": "陆游",
+        "source": "《初夏》"
+      },
+      "technique": "鲜食。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoman_north_1",
+      "name": "黄瓜",
+      "region": "北方",
+      "category": "小满",
+      "cultural_meaning": "补水消暑。",
+      "flavor": "清脆爽口。",
+      "ingredients": [
+        "黄瓜"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "黄瓜传入中国。"
+        }
+      ],
+      "poem": {},
+      "technique": "凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoman_north_2",
+      "name": "蒜薹",
+      "region": "北方",
+      "category": "小满",
+      "cultural_meaning": "杀菌。",
+      "flavor": "鲜嫩微辣。",
+      "ingredients": [
+        "蒜薹",
+        "肉丝"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "小满蒜薹正当时。"
+        }
+      ],
+      "poem": {},
+      "technique": "炒肉丝。",
+      "intangible": null
+    },
+    {
+      "id": "solar_mangzhong_south_1",
+      "name": "梅子",
+      "region": "南方",
+      "category": "芒种",
+      "cultural_meaning": "煮梅消夏。",
+      "flavor": "酸涩后回甘。",
+      "ingredients": [
+        "青梅"
+      ],
+      "history": [
+        {
+          "period": "三国",
+          "record": "青梅煮酒论英雄。"
+        }
+      ],
+      "poem": {
+        "content": "青梅煮酒斗时新",
+        "dynasty": "宋",
+        "author": "晏殊",
+        "source": "《浣溪沙》"
+      },
+      "technique": "盐渍或糖渍。",
+      "intangible": null
+    },
+    {
+      "id": "solar_mangzhong_south_2",
+      "name": "粽子",
+      "region": "南方",
+      "category": "芒种",
+      "cultural_meaning": "端午前奏，纪念屈原。",
+      "flavor": "糯米软糯，馅料丰富。",
+      "ingredients": [
+        "糯米",
+        "粽叶",
+        "五花肉",
+        "咸蛋黄"
+      ],
+      "history": [
+        {
+          "period": "战国",
+          "record": "纪念屈原。"
+        }
+      ],
+      "poem": {
+        "content": "彩缕碧筠粽，香粳白玉团。",
+        "dynasty": "唐",
+        "author": "元稹",
+        "source": "《表夏十首》"
+      },
+      "technique": "包裹捆扎，煮数小时。",
+      "intangible": {
+        "level": "国家级非遗",
+        "year": 2010,
+        "inheritor": "嘉兴粽子制作技艺",
+        "category": "传统技艺"
+      }
+    },
+    {
+      "id": "solar_mangzhong_north_1",
+      "name": "打卤面",
+      "region": "北方",
+      "category": "芒种",
+      "cultural_meaning": "补充体力。",
+      "flavor": "咸香浓郁。",
+      "ingredients": [
+        "面条",
+        "五花肉",
+        "香菇",
+        "黄花菜",
+        "木耳"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "北方农忙吃打卤面。"
+        }
+      ],
+      "poem": {},
+      "technique": "煮面，浇卤汁。",
+      "intangible": null
+    },
+    {
+      "id": "solar_mangzhong_north_2",
+      "name": "桑葚",
+      "region": "北方",
+      "category": "芒种",
+      "cultural_meaning": "尝新，补充营养。",
+      "flavor": "酸甜多汁。",
+      "ingredients": [
+        "桑葚"
+      ],
+      "history": [
+        {
+          "period": "古代",
+          "record": "《诗经》中有记载。"
+        }
+      ],
+      "poem": {},
+      "technique": "鲜食或制成果酱。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiazhi_south_1",
+      "name": "凉面",
+      "region": "南方",
+      "category": "夏至",
+      "cultural_meaning": "消暑降温。",
+      "flavor": "清爽滑嫩。",
+      "ingredients": [
+        "面条",
+        "黄瓜丝",
+        "豆芽",
+        "芝麻酱",
+        "蒜泥"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "长安盛行过夏至吃凉面。"
+        }
+      ],
+      "poem": {},
+      "technique": "面条煮熟过凉水，拌调料食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiazhi_south_2",
+      "name": "馄饨",
+      "region": "南方",
+      "category": "夏至",
+      "cultural_meaning": "团圆美满。",
+      "flavor": "汤鲜味美。",
+      "ingredients": [
+        "馄饨皮",
+        "猪肉馅",
+        "紫菜",
+        "虾皮",
+        "蛋丝"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "《东京梦华录》记载汴京夏至吃馄饨。"
+        }
+      ],
+      "poem": {},
+      "technique": "包制馄饨，煮熟配汤食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiazhi_north_1",
+      "name": "面条",
+      "region": "北方",
+      "category": "夏至",
+      "cultural_meaning": "长寿安康。",
+      "flavor": "筋道爽滑。",
+      "ingredients": [
+        "面粉",
+        "黄瓜丝",
+        "肉丝",
+        "蒜泥"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《荆楚岁时记》载夏至食面条。"
+        }
+      ],
+      "poem": {},
+      "technique": "手擀面煮熟，拌菜食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiazhi_north_2",
+      "name": "凉粉",
+      "region": "北方",
+      "category": "夏至",
+      "cultural_meaning": "清凉解暑。",
+      "flavor": "滑嫩爽口。",
+      "ingredients": [
+        "豌豆淀粉",
+        "黄瓜丝",
+        "胡萝卜丝",
+        "蒜泥",
+        "醋"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "已有制作凉粉的记载。"
+        }
+      ],
+      "poem": {},
+      "technique": "淀粉调糊蒸制，切条凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoshu_south_1",
+      "name": "三鲜炒面",
+      "region": "南方",
+      "category": "小暑",
+      "cultural_meaning": "补充营养，增强体质。",
+      "flavor": "鲜香滑润。",
+      "ingredients": [
+        "面条",
+        "虾仁",
+        "鱿鱼",
+        "韭黄",
+        "豆芽"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "江南地区夏季时令炒面。"
+        }
+      ],
+      "poem": {},
+      "technique": "面条煮熟，配菜炒制后拌合。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoshu_south_2",
+      "name": "绿豆汤",
+      "region": "南方",
+      "category": "小暑",
+      "cultural_meaning": "清热解毒，消暑降温。",
+      "flavor": "清甜爽口。",
+      "ingredients": [
+        "绿豆",
+        "冰糖"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "《太平圣惠方》记载绿豆汤功效。"
+        }
+      ],
+      "poem": {},
+      "technique": "绿豆煮至开花，加冰糖调味。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoshu_north_1",
+      "name": "饺子",
+      "region": "北方",
+      "category": "小暑",
+      "cultural_meaning": "开胃解馋。",
+      "flavor": "鲜香味美。",
+      "ingredients": [
+        "面粉",
+        "猪肉",
+        "韭菜",
+        "鸡蛋"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "《帝京景物略》载夏至吃饺子。"
+        }
+      ],
+      "poem": {},
+      "technique": "包制饺子，水煮食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoshu_north_2",
+      "name": "凉拌茄子",
+      "region": "北方",
+      "category": "小暑",
+      "cultural_meaning": "清热解暑。",
+      "flavor": "软糯鲜香。",
+      "ingredients": [
+        "茄子",
+        "蒜泥",
+        "香菜",
+        "生抽",
+        "醋"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方夏季家常菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "茄子蒸熟撕条，凉拌调味。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dashu_south_1",
+      "name": "凤梨酥",
+      "region": "南方",
+      "category": "大暑",
+      "cultural_meaning": "消暑解腻。",
+      "flavor": "酥脆香甜。",
+      "ingredients": [
+        "面粉",
+        " butter",
+        "糖",
+        "凤梨馅"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "台湾地区夏季特色糕点。"
+        }
+      ],
+      "poem": {},
+      "technique": "和面制皮，包入凤梨馅，烘烤而成。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dashu_south_2",
+      "name": "仙草冻",
+      "region": "南方",
+      "category": "大暑",
+      "cultural_meaning": "清凉解暑，消热败火。",
+      "flavor": "滑嫩清甜。",
+      "ingredients": [
+        "仙草",
+        "牛奶",
+        "糖"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "闽台地区传统消暑甜品。"
+        }
+      ],
+      "poem": {},
+      "technique": "仙草熬煮成胶，冷却凝固，切块食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dashu_north_1",
+      "name": "凉皮",
+      "region": "北方",
+      "category": "大暑",
+      "cultural_meaning": "清凉爽口，消暑开胃。",
+      "flavor": "筋道滑爽。",
+      "ingredients": [
+        "面粉",
+        "黄瓜丝",
+        "豆芽",
+        "蒜泥",
+        "辣椒油"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "陕西关中地区传统小吃。"
+        }
+      ],
+      "poem": {},
+      "technique": "面粉洗出面筋，蒸制成皮，切条凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dashu_north_2",
+      "name": "冰镇西瓜",
+      "region": "北方",
+      "category": "大暑",
+      "cultural_meaning": "消暑解渴。",
+      "flavor": "清甜多汁。",
+      "ingredients": [
+        "西瓜"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "全国各地夏季消暑水果。"
+        }
+      ],
+      "poem": {},
+      "technique": "西瓜切块冷藏后食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_liqiu_south_1",
+      "name": "秋梨膏",
+      "region": "南方",
+      "category": "立秋",
+      "cultural_meaning": "润燥养肺。",
+      "flavor": "甘甜润喉。",
+      "ingredients": [
+        "雪梨",
+        "川贝",
+        "蜂蜜",
+        "冰糖"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "宫廷御用润燥饮品。"
+        }
+      ],
+      "poem": {},
+      "technique": "梨榨汁，与药材熬煮浓缩，加蜂蜜调制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_liqiu_south_2",
+      "name": "桂花糖藕",
+      "region": "南方",
+      "category": "立秋",
+      "cultural_meaning": "甜蜜幸福。",
+      "flavor": "甜糯清香。",
+      "ingredients": [
+        "莲藕",
+        "糯米",
+        "桂花",
+        "冰糖"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "江南地区传统甜品。"
+        }
+      ],
+      "poem": {},
+      "technique": "藕孔填糯米，煮熟切片，淋桂花糖汁。",
+      "intangible": null
+    },
+    {
+      "id": "solar_liqiu_north_1",
+      "name": "贴秋膘（烤鸭）",
+      "region": "北方",
+      "category": "立秋",
+      "cultural_meaning": "补充能量，储备脂肪。",
+      "flavor": "皮酥肉嫩。",
+      "ingredients": [
+        "鸭子",
+        "甜面酱",
+        "葱丝",
+        "黄瓜条"
+      ],
+      "history": [
+        {
+          "period": "元代",
+          "record": "北京传统名菜，立秋必食。"
+        }
+      ],
+      "poem": {},
+      "technique": "鸭子烤制，片皮配酱料卷饼食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_liqiu_north_2",
+      "name": "茄鲞",
+      "region": "北方",
+      "category": "立秋",
+      "cultural_meaning": "《红楼梦》中的经典菜肴，寓意精致生活。",
+      "flavor": "酸甜开胃。",
+      "ingredients": [
+        "茄子",
+        "鸡肉丁",
+        "香菇丁",
+        "核桃仁",
+        "花生米"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "《红楼梦》中王熙凤向刘姥姥介绍的菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "茄子切丁腌制，与多种食材炒制，工艺复杂。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chushu_south_1",
+      "name": "鸭子",
+      "region": "南方",
+      "category": "处暑",
+      "cultural_meaning": "处暑吃鸭，无病无灾。",
+      "flavor": "肉质鲜美。",
+      "ingredients": [
+        "鸭子",
+        " ginger",
+        "wine",
+        "soy sauce"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "江南地区处暑吃鸭子的习俗。"
+        }
+      ],
+      "poem": {},
+      "technique": "鸭子可烤、可炖、可卤，形式多样。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chushu_south_2",
+      "name": "龙眼",
+      "region": "南方",
+      "category": "处暑",
+      "cultural_meaning": "益气补血，安神定志。",
+      "flavor": "甘甜软糯。",
+      "ingredients": [
+        "龙眼"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "福建等地特产，处暑时令水果。"
+        }
+      ],
+      "poem": {},
+      "technique": "鲜食或煲汤。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chushu_north_1",
+      "name": "百合莲子汤",
+      "region": "北方",
+      "category": "处暑",
+      "cultural_meaning": "润燥安神。",
+      "flavor": "清甜滋润。",
+      "ingredients": [
+        "百合",
+        "莲子",
+        "银耳",
+        "冰糖"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "宫廷及民间秋季润燥汤品。"
+        }
+      ],
+      "poem": {},
+      "technique": "诸料慢炖至软烂，调味食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_chushu_north_2",
+      "name": "白切鸡",
+      "region": "北方",
+      "category": "处暑",
+      "cultural_meaning": "补充蛋白质，增强体质。",
+      "flavor": "皮爽肉滑。",
+      "ingredients": [
+        "鸡肉",
+        "姜葱",
+        "酱油"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "广东菜，后传至北方。"
+        }
+      ],
+      "poem": {},
+      "technique": "鸡煮熟切块，配蘸料食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_bailu_south_1",
+      "name": "白露茶",
+      "region": "南方",
+      "category": "白露",
+      "cultural_meaning": "清热润燥。",
+      "flavor": "甘醇清香。",
+      "ingredients": [
+        "白露时节采摘的茶叶"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "《茶疏》推崇白露茶。"
+        }
+      ],
+      "poem": {},
+      "technique": "采摘嫩芽，精心制作成绿茶或乌龙茶。",
+      "intangible": null
+    },
+    {
+      "id": "solar_bailu_south_2",
+      "name": "番薯糖水",
+      "region": "南方",
+      "category": "白露",
+      "cultural_meaning": "健脾养胃。",
+      "flavor": "甜糯温润。",
+      "ingredients": [
+        "番薯",
+        "冰糖",
+        "姜片"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "华南地区秋季甜品。"
+        }
+      ],
+      "poem": {},
+      "technique": "番薯切块与冰糖、姜片同煮。",
+      "intangible": null
+    },
+    {
+      "id": "solar_bailu_north_1",
+      "name": "核桃",
+      "region": "北方",
+      "category": "白露",
+      "cultural_meaning": "补脑益肾。",
+      "flavor": "香脆甘美。",
+      "ingredients": [
+        "核桃"
+      ],
+      "history": [
+        {
+          "period": "古代",
+          "record": "《本草纲目》记载其药用价值。"
+        }
+      ],
+      "poem": {},
+      "technique": "鲜食或入药膳。",
+      "intangible": null
+    },
+    {
+      "id": "solar_bailu_north_2",
+      "name": "秋梨",
+      "region": "北方",
+      "category": "白露",
+      "cultural_meaning": "润肺止咳。",
+      "flavor": "清甜多汁。",
+      "ingredients": [
+        "梨"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方秋季主要水果。"
+        }
+      ],
+      "poem": {},
+      "technique": "鲜食或炖煮。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qiufen_south_1",
+      "name": "螃蟹",
+      "region": "南方",
+      "category": "秋分",
+      "cultural_meaning": "秋风起，蟹脚痒，正是品蟹好时节。",
+      "flavor": "鲜美肥腴。",
+      "ingredients": [
+        "大闸蟹"
+      ],
+      "history": [
+        {
+          "period": "魏晋",
+          "record": "《世说新语》记载食蟹风尚。"
+        }
+      ],
+      "poem": {
+        "content": "蟹螯即金液，糟丘是蓬莱。且须饮美酒，乘月醉高台。",
+        "dynasty": "唐",
+        "author": "李白",
+        "source": "《月下独酌》"
+      },
+      "technique": "蒸制或炒制，配姜醋汁食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qiufen_south_2",
+      "name": "桂花糕",
+      "region": "南方",
+      "category": "秋分",
+      "cultural_meaning": "金秋时节，桂花飘香。",
+      "flavor": "软糯香甜。",
+      "ingredients": [
+        "糯米粉",
+        "桂花",
+        "糖"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "江南地区传统糕点。"
+        }
+      ],
+      "poem": {},
+      "technique": "米粉与桂花糖拌匀，蒸制而成。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qiufen_north_1",
+      "name": "秋菜",
+      "region": "北方",
+      "category": "秋分",
+      "cultural_meaning": "秋分吃秋菜，一年无病无灾。",
+      "flavor": "清香爽口。",
+      "ingredients": [
+        "菠菜",
+        "小白菜",
+        "萝卜缨"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方秋季时令蔬菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "可炒食、做汤或凉拌。",
+      "intangible": null
+    },
+    {
+      "id": "solar_qiufen_north_2",
+      "name": "炖南瓜",
+      "region": "北方",
+      "category": "秋分",
+      "cultural_meaning": "丰收的象征，营养丰富。",
+      "flavor": "甜糯香浓。",
+      "ingredients": [
+        "南瓜",
+        "小米",
+        "红枣"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方秋季家常菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "南瓜切块与小米、红枣同炖。",
+      "intangible": null
+    },
+    {
+      "id": "solar_hanlu_south_1",
+      "name": "菊花酒",
+      "region": "南方",
+      "category": "寒露",
+      "cultural_meaning": "祛灾祈福，延年益寿。",
+      "flavor": "甘冽清香。",
+      "ingredients": [
+        "菊花",
+        "糯米",
+        "酒曲"
+      ],
+      "history": [
+        {
+          "period": "晋代",
+          "record": "陶渊明诗中提及菊花酒。"
+        }
+      ],
+      "poem": {
+        "content": "菊花酿酒，以迎重阳。",
+        "dynasty": "晋",
+        "author": "陶渊明",
+        "source": "《九日闲居》"
+      },
+      "technique": "菊花与糯米发酵酿制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_hanlu_south_2",
+      "name": "芝麻糊",
+      "region": "南方",
+      "category": "寒露",
+      "cultural_meaning": "滋补肝肾，润燥滑肠。",
+      "flavor": "香甜细腻。",
+      "ingredients": [
+        "黑芝麻",
+        "糯米粉",
+        "糖"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "宫廷及民间流行滋补食品。"
+        }
+      ],
+      "poem": {},
+      "technique": "芝麻炒香磨粉，与糯米粉煮制成糊。",
+      "intangible": null
+    },
+    {
+      "id": "solar_hanlu_north_1",
+      "name": "羊肉汤",
+      "region": "北方",
+      "category": "寒露",
+      "cultural_meaning": "温补驱寒。",
+      "flavor": "鲜美醇厚。",
+      "ingredients": [
+        "羊肉",
+        "萝卜",
+        "当归",
+        "枸杞"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《伤寒论》记载当归生姜羊肉汤。"
+        }
+      ],
+      "poem": {},
+      "technique": "羊肉与药材慢炖，调味食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_hanlu_north_2",
+      "name": "柿子",
+      "region": "北方",
+      "category": "寒露",
+      "cultural_meaning": "事事如意。",
+      "flavor": "甘甜软糯。",
+      "ingredients": [
+        "柿子"
+      ],
+      "history": [
+        {
+          "period": "唐代",
+          "record": "《酉阳杂俎》记载柿子品种。"
+        }
+      ],
+      "poem": {},
+      "technique": "鲜食或制成柿饼。",
+      "intangible": null
+    },
+    {
+      "id": "solar_shuangjiang_south_1",
+      "name": "柿饼",
+      "region": "南方",
+      "category": "霜降",
+      "cultural_meaning": "事事如意，甜蜜富足。",
+      "flavor": "甜腻软糯。",
+      "ingredients": [
+        "柿子"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "《本草纲目》记载柿饼制作。"
+        }
+      ],
+      "poem": {},
+      "technique": "柿子削皮晾晒，干燥后制成。",
+      "intangible": null
+    },
+    {
+      "id": "solar_shuangjiang_south_2",
+      "name": "板栗烧鸡",
+      "region": "南方",
+      "category": "霜降",
+      "cultural_meaning": "丰衣足食。",
+      "flavor": "鲜香浓郁。",
+      "ingredients": [
+        "鸡肉",
+        "板栗",
+        "香菇",
+        "酱油"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "江南地区秋冬时令菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "鸡肉与板栗、香菇一同红烧。",
+      "intangible": null
+    },
+    {
+      "id": "solar_shuangjiang_north_1",
+      "name": "萝卜丸子",
+      "region": "北方",
+      "category": "霜降",
+      "cultural_meaning": "秋冬养生，顺时而食。",
+      "flavor": "外酥里嫩。",
+      "ingredients": [
+        "白萝卜",
+        "猪肉馅",
+        "面粉",
+        "葱姜"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方秋冬家常菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "萝卜擦丝与肉馅混合，团成丸子油炸。",
+      "intangible": null
+    },
+    {
+      "id": "solar_shuangjiang_north_2",
+      "name": "涮羊肉",
+      "region": "北方",
+      "category": "霜降",
+      "cultural_meaning": "驱寒保暖，团圆共享。",
+      "flavor": "鲜嫩无膻。",
+      "ingredients": [
+        "羊肉片",
+        "大白菜",
+        "粉丝",
+        "芝麻酱"
+      ],
+      "history": [
+        {
+          "period": "元代",
+          "record": "蒙古族传统，后传入中原。"
+        }
+      ],
+      "poem": {},
+      "technique": "铜锅清水煮沸，涮食羊肉及配菜。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lidong_south_1",
+      "name": "羊肉炉",
+      "region": "南方",
+      "category": "立冬",
+      "cultural_meaning": "驱寒进补，暖身暖心。",
+      "flavor": "汤鲜肉美。",
+      "ingredients": [
+        "羊肉",
+        "当归",
+        "党参",
+        "枸杞",
+        "萝卜"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "闽南、江浙一带立冬进补习俗。"
+        }
+      ],
+      "poem": {},
+      "technique": "羊肉与药材慢炖成汤，边煮边食。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lidong_south_2",
+      "name": "糍粑",
+      "region": "南方",
+      "category": "立冬",
+      "cultural_meaning": "团圆甜蜜，庆祝丰收。",
+      "flavor": "软糯香甜。",
+      "ingredients": [
+        "糯米",
+        "红糖",
+        "芝麻"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《荆楚岁时记》记载糍粑制作。"
+        }
+      ],
+      "poem": {},
+      "technique": "糯米蒸熟捣烂，制成饼状，煎至金黄。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lidong_north_1",
+      "name": "饺子",
+      "region": "北方",
+      "category": "立冬",
+      "cultural_meaning": "安耳朵，防冻疮。",
+      "flavor": "鲜香可口。",
+      "ingredients": [
+        "面粉",
+        "猪肉",
+        "韭菜",
+        "白菜"
+      ],
+      "history": [
+        {
+          "period": "东汉",
+          "record": "张仲景发明饺子治疗冻耳朵。"
+        }
+      ],
+      "poem": {},
+      "technique": "包制饺子，水煮食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_lidong_north_2",
+      "name": "铜锅涮肉",
+      "region": "北方",
+      "category": "立冬",
+      "cultural_meaning": "驱寒保暖，家人团聚。",
+      "flavor": "鲜嫩无膻。",
+      "ingredients": [
+        "羊肉片",
+        "白菜",
+        "豆腐",
+        "粉丝",
+        "芝麻酱"
+      ],
+      "history": [
+        {
+          "period": "元代",
+          "record": "蒙古族传统，后成为北方冬令美食。"
+        }
+      ],
+      "poem": {},
+      "technique": "铜锅炭火，清水煮沸涮食。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoxue_south_1",
+      "name": "腊肉",
+      "region": "南方",
+      "category": "小雪",
+      "cultural_meaning": "储存冬粮，迎接新年。",
+      "flavor": "咸香浓郁。",
+      "ingredients": [
+        "五花肉",
+        "盐",
+        "花椒",
+        "白酒"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《释名》记载腊肉制作。"
+        }
+      ],
+      "poem": {},
+      "technique": "肉条腌制后风干或烟熏。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoxue_south_2",
+      "name": "刨汤",
+      "region": "南方",
+      "category": "小雪",
+      "cultural_meaning": "杀年猪，庆丰收。",
+      "flavor": "鲜美醇厚。",
+      "ingredients": [
+        "猪肉",
+        "猪血",
+        "豆腐",
+        "萝卜",
+        "酸菜"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "西南地区传统习俗。"
+        }
+      ],
+      "poem": {},
+      "technique": "新鲜猪肉及下水煮制，配菜一同炖煮。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoxue_north_1",
+      "name": "涮羊肉",
+      "region": "北方",
+      "category": "小雪",
+      "cultural_meaning": "驱寒保暖，滋养身体。",
+      "flavor": "鲜嫩无膻。",
+      "ingredients": [
+        "羊肉片",
+        "白菜",
+        "豆腐",
+        "粉丝",
+        "芝麻酱"
+      ],
+      "history": [
+        {
+          "period": "元代",
+          "record": "蒙古族传统，后传遍北方。"
+        }
+      ],
+      "poem": {},
+      "technique": "铜锅清水煮沸，涮食羊肉及配菜。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaoxue_north_2",
+      "name": "冻梨",
+      "region": "北方",
+      "category": "小雪",
+      "cultural_meaning": "冬日消遣，别样风味。",
+      "flavor": "酸甜冰凉。",
+      "ingredients": [
+        "白梨"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "东北地区冬季特色水果。"
+        }
+      ],
+      "poem": {},
+      "technique": "梨放在室外冷冻，食用时解冻。",
+      "intangible": null
+    },
+    {
+      "id": "solar_daxue_south_1",
+      "name": "羊肉粉",
+      "region": "南方",
+      "category": "大雪",
+      "cultural_meaning": "驱寒暖胃，滋补身体。",
+      "flavor": "汤鲜粉滑。",
+      "ingredients": [
+        "羊肉",
+        "米粉",
+        "豆芽",
+        "香菜",
+        "辣椒油"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "贵州等地冬日特色小吃。"
+        }
+      ],
+      "poem": {},
+      "technique": "羊肉炖煮成汤，浇在米粉上，配菜调味。",
+      "intangible": null
+    },
+    {
+      "id": "solar_daxue_south_2",
+      "name": "糖炒栗子",
+      "region": "南方",
+      "category": "大雪",
+      "cultural_meaning": "冬日温暖，甜蜜相伴。",
+      "flavor": "香甜粉糯。",
+      "ingredients": [
+        "板栗",
+        "糖",
+        "油"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "《武林旧事》记载临安售卖炒栗。"
+        }
+      ],
+      "poem": {
+        "content": "范儿炒栗子，远近驰名。",
+        "dynasty": "宋",
+        "author": "周密",
+        "source": "《武林旧事》"
+      },
+      "technique": "板栗与糖、油一同炒制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_daxue_north_1",
+      "name": "酸菜白肉",
+      "region": "北方",
+      "category": "大雪",
+      "cultural_meaning": "冬储蔬菜，家常美味。",
+      "flavor": "酸香开胃。",
+      "ingredients": [
+        "酸菜",
+        "五花肉",
+        "粉条",
+        "血肠"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "满族传统菜肴，后传遍北方。"
+        }
+      ],
+      "poem": {},
+      "technique": "酸菜与白肉、血肠等炖煮。",
+      "intangible": null
+    },
+    {
+      "id": "solar_daxue_north_2",
+      "name": "烤红薯",
+      "region": "北方",
+      "category": "大雪",
+      "cultural_meaning": "街头温暖，童年回忆。",
+      "flavor": "香甜软糯。",
+      "ingredients": [
+        "红薯"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方冬季街头常见小吃。"
+        }
+      ],
+      "poem": {},
+      "technique": "红薯放入烤炉中烤制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dongzhi_south_1",
+      "name": "汤圆",
+      "region": "南方",
+      "category": "冬至",
+      "cultural_meaning": "团圆美满，幸福安康。",
+      "flavor": "软糯香甜。",
+      "ingredients": [
+        "糯米粉",
+        "黑芝麻",
+        "花生",
+        "糖"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "《武林旧事》记载冬至吃汤圆。"
+        }
+      ],
+      "poem": {},
+      "technique": "糯米粉包馅搓圆，煮熟食用。",
+      "intangible": {
+        "level": "国家级非遗",
+        "year": 2008,
+        "inheritor": "宁波汤圆制作技艺",
+        "category": "传统技艺"
+      }
+    },
+    {
+      "id": "solar_dongzhi_south_2",
+      "name": "冬酿酒",
+      "region": "南方",
+      "category": "冬至",
+      "cultural_meaning": "辞旧迎新，祈福纳祥。",
+      "flavor": "甘甜醇厚。",
+      "ingredients": [
+        "糯米",
+        "桂花",
+        "酒曲"
+      ],
+      "history": [
+        {
+          "period": "明代",
+          "record": "苏州地区冬至特酿。"
+        }
+      ],
+      "poem": {},
+      "technique": "糯米蒸熟，拌入桂花与酒曲发酵。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dongzhi_north_1",
+      "name": "饺子",
+      "region": "北方",
+      "category": "冬至",
+      "cultural_meaning": "不 eat 饺子，耳朵会被冻掉。",
+      "flavor": "鲜香可口。",
+      "ingredients": [
+        "面粉",
+        "猪肉",
+        "韭菜",
+        "白菜"
+      ],
+      "history": [
+        {
+          "period": "东汉",
+          "record": "张仲景发明饺子治疗冻耳朵。"
+        }
+      ],
+      "poem": {},
+      "technique": "包制饺子，水煮食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dongzhi_north_2",
+      "name": "羊肉汤",
+      "region": "北方",
+      "category": "冬至",
+      "cultural_meaning": "驱寒补身，温暖过冬。",
+      "flavor": "鲜美醇厚。",
+      "ingredients": [
+        "羊肉",
+        "当归",
+        "党参",
+        "枸杞",
+        "萝卜"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《伤寒论》记载当归生姜羊肉汤。"
+        }
+      ],
+      "poem": {},
+      "technique": "羊肉与药材慢炖成汤。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaohan_south_1",
+      "name": "腊八粥",
+      "region": "南方",
+      "category": "小寒",
+      "cultural_meaning": "祈求丰收，合家团圆。",
+      "flavor": "甜糯香美。",
+      "ingredients": [
+        "大米",
+        "红豆",
+        "花生",
+        "莲子",
+        "桂圆",
+        "红枣"
+      ],
+      "history": [
+        {
+          "period": "宋代",
+          "record": "《燕京岁时记》记载腊八粥。"
+        }
+      ],
+      "poem": {
+        "content": "腊八家家煮粥忙，茨菇莲子共添香。",
+        "dynasty": "清",
+        "author": "李光庭",
+        "source": "《乡言解颐》"
+      },
+      "technique": "多种谷豆果仁慢火熬煮成粥。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaohan_south_2",
+      "name": "年糕",
+      "region": "南方",
+      "category": "小寒",
+      "cultural_meaning": "年年高升。",
+      "flavor": "软糯香甜。",
+      "ingredients": [
+        "糯米粉",
+        "糖",
+        "红枣",
+        "红豆"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《荆楚岁时记》记载年糕雏形。"
+        }
+      ],
+      "poem": {},
+      "technique": "糯米粉制糕，蒸制或煎制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaohan_north_1",
+      "name": "涮羊肉",
+      "region": "北方",
+      "category": "小寒",
+      "cultural_meaning": "驱寒保暖，滋养身体。",
+      "flavor": "鲜嫩无膻。",
+      "ingredients": [
+        "羊肉片",
+        "白菜",
+        "豆腐",
+        "粉丝",
+        "芝麻酱"
+      ],
+      "history": [
+        {
+          "period": "元代",
+          "record": "蒙古族传统，后传遍北方。"
+        }
+      ],
+      "poem": {},
+      "technique": "铜锅清水煮沸，涮食羊肉及配菜。",
+      "intangible": null
+    },
+    {
+      "id": "solar_xiaohan_north_2",
+      "name": "冻豆腐",
+      "region": "北方",
+      "category": "小寒",
+      "cultural_meaning": "冬日储存，风味独特。",
+      "flavor": "孔隙丰富，吸味十足。",
+      "ingredients": [
+        "豆腐"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "北方冬季传统食材处理方式。"
+        }
+      ],
+      "poem": {},
+      "technique": "豆腐放置室外冷冻，解冻后食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dahan_south_1",
+      "name": "八宝饭",
+      "region": "南方",
+      "category": "大寒",
+      "cultural_meaning": "甜甜蜜蜜，团团圆圆。",
+      "flavor": "香甜软糯。",
+      "ingredients": [
+        "糯米",
+        "红枣",
+        "莲子",
+        "桂圆",
+        "豆沙",
+        "糖"
+      ],
+      "history": [
+        {
+          "period": "清代",
+          "record": "江南地区年节传统甜品。"
+        }
+      ],
+      "poem": {},
+      "technique": "糯米蒸熟，与各色果料层层铺就蒸制。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dahan_south_2",
+      "name": "腊肠",
+      "region": "南方",
+      "category": "大寒",
+      "cultural_meaning": "年味浓郁，准备过年。",
+      "flavor": "咸香甘甜。",
+      "ingredients": [
+        "猪肉",
+        "肠衣",
+        "盐",
+        "糖",
+        "酒"
+      ],
+      "history": [
+        {
+          "period": "汉代",
+          "record": "《释名》记载腊肠制作。"
+        }
+      ],
+      "poem": {},
+      "technique": "肉糜调味灌入肠衣，风干或晾晒。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dahan_north_1",
+      "name": "饺子",
+      "region": "北方",
+      "category": "大寒",
+      "cultural_meaning": "更岁交子，团圆吉祥。",
+      "flavor": "鲜香可口。",
+      "ingredients": [
+        "面粉",
+        "猪肉",
+        "韭菜",
+        "白菜"
+      ],
+      "history": [
+        {
+          "period": "东汉",
+          "record": "张仲景发明饺子。"
+        }
+      ],
+      "poem": {},
+      "technique": "包制饺子，水煮食用。",
+      "intangible": null
+    },
+    {
+      "id": "solar_dahan_north_2",
+      "name": "酸菜炖粉条",
+      "region": "北方",
+      "category": "大寒",
+      "cultural_meaning": "冬日暖身，家的味道。",
+      "flavor": "酸香开胃。",
+      "ingredients": [
+        "酸菜",
+        "粉条",
+        "五花肉",
+        "豆腐"
+      ],
+      "history": [
+        {
+          "period": "现代",
+          "record": "东北地区家常菜。"
+        }
+      ],
+      "poem": {},
+      "technique": "酸菜与粉条、豆腐、肉一同炖煮。",
+      "intangible": null
+    }
+  ]
+}

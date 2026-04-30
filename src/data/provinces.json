@@ -1,0 +1,614 @@
+[
+  {
+    "name": "安徽省",
+    "shortName": "安徽",
+    "capital": "合肥",
+    "region": "华东",
+    "cuisine": "徽菜",
+    "description": "安徽饮食文化与徽菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      117.226884,
+      31.849254
+    ],
+    "id": 1
+  },
+  {
+    "name": "澳门特别行政区",
+    "shortName": "澳门",
+    "capital": "澳门",
+    "region": "港澳台",
+    "cuisine": "澳葡风味",
+    "description": "澳门饮食文化与澳葡风味交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      113.566988,
+      22.159307
+    ],
+    "id": 2
+  },
+  {
+    "name": "北京市",
+    "shortName": "北京",
+    "capital": "北京",
+    "region": "华北",
+    "cuisine": "京菜",
+    "description": "北京饮食文化与京菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      116.41995,
+      40.18994
+    ],
+    "id": 3
+  },
+  {
+    "name": "重庆市",
+    "shortName": "重庆",
+    "capital": "重庆",
+    "region": "西南",
+    "cuisine": "渝菜",
+    "description": "重庆饮食文化与渝菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      107.8839,
+      30.067297
+    ],
+    "id": 4
+  },
+  {
+    "name": "福建省",
+    "shortName": "福建",
+    "capital": "福州",
+    "region": "华东",
+    "cuisine": "闽菜",
+    "description": "福建饮食文化与闽菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      118.006468,
+      26.069925
+    ],
+    "id": 5
+  },
+  {
+    "name": "甘肃省",
+    "shortName": "甘肃",
+    "capital": "兰州",
+    "region": "西北",
+    "cuisine": "陇菜",
+    "description": "甘肃饮食文化与陇菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      103.823557,
+      36.058039
+    ],
+    "id": 6
+  },
+  {
+    "name": "广东省",
+    "shortName": "广东",
+    "capital": "广州",
+    "region": "华南",
+    "cuisine": "粤菜",
+    "description": "广东饮食文化与粤菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      113.429919,
+      23.334643
+    ],
+    "id": 7
+  },
+  {
+    "name": "广西壮族自治区",
+    "shortName": "广西",
+    "capital": "南宁",
+    "region": "华南",
+    "cuisine": "桂菜",
+    "description": "广西壮族饮食文化与桂菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      108.7944,
+      23.833381
+    ],
+    "id": 8
+  },
+  {
+    "name": "贵州省",
+    "shortName": "贵州",
+    "capital": "贵阳",
+    "region": "西南",
+    "cuisine": "黔菜",
+    "description": "贵州饮食文化与黔菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      106.880455,
+      26.826368
+    ],
+    "id": 9
+  },
+  {
+    "name": "海南省",
+    "shortName": "海南",
+    "capital": "海口",
+    "region": "华南",
+    "cuisine": "琼菜",
+    "description": "海南饮食文化与琼菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      109.754859,
+      19.189767
+    ],
+    "id": 10
+  },
+  {
+    "name": "河北省",
+    "shortName": "河北",
+    "capital": "石家庄",
+    "region": "华北",
+    "cuisine": "冀菜",
+    "description": "河北饮食文化与冀菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      114.502461,
+      38.045474
+    ],
+    "id": 11
+  },
+  {
+    "name": "河南省",
+    "shortName": "河南",
+    "capital": "郑州",
+    "region": "华中",
+    "cuisine": "豫菜",
+    "description": "河南饮食文化与豫菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      113.619717,
+      33.902648
+    ],
+    "id": 12
+  },
+  {
+    "name": "黑龙江省",
+    "shortName": "黑龙江",
+    "capital": "哈尔滨",
+    "region": "东北",
+    "cuisine": "龙江菜",
+    "description": "黑龙江饮食文化与龙江菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      127.693027,
+      48.040465
+    ],
+    "id": 13
+  },
+  {
+    "name": "湖北省",
+    "shortName": "湖北",
+    "capital": "武汉",
+    "region": "华中",
+    "cuisine": "鄂菜",
+    "description": "湖北饮食文化与鄂菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      112.271301,
+      30.987527
+    ],
+    "id": 14
+  },
+  {
+    "name": "湖南省",
+    "shortName": "湖南",
+    "capital": "长沙",
+    "region": "华中",
+    "cuisine": "湘菜",
+    "description": "湖南饮食文化与湘菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      111.711649,
+      27.629216
+    ],
+    "id": 15
+  },
+  {
+    "name": "吉林省",
+    "shortName": "吉林",
+    "capital": "长春",
+    "region": "东北",
+    "cuisine": "吉菜",
+    "description": "吉林饮食文化与吉菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      126.171208,
+      43.703954
+    ],
+    "id": 16
+  },
+  {
+    "name": "江苏省",
+    "shortName": "江苏",
+    "capital": "南京",
+    "region": "华东",
+    "cuisine": "淮扬菜",
+    "description": "江苏饮食文化与淮扬菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      119.486506,
+      32.983991
+    ],
+    "id": 17
+  },
+  {
+    "name": "江西省",
+    "shortName": "江西",
+    "capital": "南昌",
+    "region": "华东",
+    "cuisine": "赣菜",
+    "description": "江西饮食文化与赣菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      115.732975,
+      27.636112
+    ],
+    "id": 18
+  },
+  {
+    "name": "辽宁省",
+    "shortName": "辽宁",
+    "capital": "沈阳",
+    "region": "东北",
+    "cuisine": "辽菜",
+    "description": "辽宁饮食文化与辽菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      122.604994,
+      41.299712
+    ],
+    "id": 19
+  },
+  {
+    "name": "内蒙古自治区",
+    "shortName": "内蒙古",
+    "capital": "呼和浩特",
+    "region": "华北",
+    "cuisine": "蒙餐",
+    "description": "内蒙古饮食文化与蒙餐交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      114.077429,
+      44.331087
+    ],
+    "id": 20
+  },
+  {
+    "name": "宁夏回族自治区",
+    "shortName": "宁夏",
+    "capital": "银川",
+    "region": "西北",
+    "cuisine": "清真风味",
+    "description": "宁夏回族饮食文化与清真风味交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      106.169866,
+      37.291332
+    ],
+    "id": 21
+  },
+  {
+    "name": "青海省",
+    "shortName": "青海",
+    "capital": "西宁",
+    "region": "西北",
+    "cuisine": "青藏风味",
+    "description": "青海饮食文化与青藏风味交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      96.043533,
+      35.726403
+    ],
+    "id": 22
+  },
+  {
+    "name": "山东省",
+    "shortName": "山东",
+    "capital": "济南",
+    "region": "华东",
+    "cuisine": "鲁菜",
+    "description": "山东饮食文化与鲁菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      118.187759,
+      36.376092
+    ],
+    "id": 23
+  },
+  {
+    "name": "山西省",
+    "shortName": "山西",
+    "capital": "太原",
+    "region": "华北",
+    "cuisine": "晋菜",
+    "description": "山西饮食文化与晋菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      112.304436,
+      37.618179
+    ],
+    "id": 24
+  },
+  {
+    "name": "陕西省",
+    "shortName": "陕西",
+    "capital": "西安",
+    "region": "西北",
+    "cuisine": "陕菜",
+    "description": "陕西饮食文化与陕菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      108.887114,
+      35.263661
+    ],
+    "id": 25
+  },
+  {
+    "name": "上海市",
+    "shortName": "上海",
+    "capital": "上海",
+    "region": "华东",
+    "cuisine": "本帮菜",
+    "description": "上海饮食文化与本帮菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      121.438737,
+      31.072559
+    ],
+    "id": 26
+  },
+  {
+    "name": "四川省",
+    "shortName": "四川",
+    "capital": "成都",
+    "region": "西南",
+    "cuisine": "川菜",
+    "description": "四川饮食文化与川菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      102.693453,
+      30.674545
+    ],
+    "id": 27
+  },
+  {
+    "name": "台湾省",
+    "shortName": "台湾",
+    "capital": "台北",
+    "region": "港澳台",
+    "cuisine": "台湾菜",
+    "description": "台湾饮食文化与台湾菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      120.971485,
+      23.749452
+    ],
+    "id": 28
+  },
+  {
+    "name": "天津市",
+    "shortName": "天津",
+    "capital": "天津",
+    "region": "华北",
+    "cuisine": "津菜",
+    "description": "天津饮食文化与津菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      117.347043,
+      39.288036
+    ],
+    "id": 29
+  },
+  {
+    "name": "西藏自治区",
+    "shortName": "西藏",
+    "capital": "拉萨",
+    "region": "西南",
+    "cuisine": "藏餐",
+    "description": "西藏饮食文化与藏餐交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      88.388277,
+      31.56375
+    ],
+    "id": 30
+  },
+  {
+    "name": "香港特别行政区",
+    "shortName": "香港",
+    "capital": "香港",
+    "region": "港澳台",
+    "cuisine": "港式粤菜",
+    "description": "香港饮食文化与港式粤菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      114.134357,
+      22.377366
+    ],
+    "id": 31
+  },
+  {
+    "name": "新疆维吾尔自治区",
+    "shortName": "新疆",
+    "capital": "乌鲁木齐",
+    "region": "西北",
+    "cuisine": "新疆菜",
+    "description": "新疆维吾尔饮食文化与新疆菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      85.294711,
+      41.371801
+    ],
+    "id": 32
+  },
+  {
+    "name": "云南省",
+    "shortName": "云南",
+    "capital": "昆明",
+    "region": "西南",
+    "cuisine": "滇菜",
+    "description": "云南饮食文化与滇菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      101.485106,
+      25.008643
+    ],
+    "id": 33
+  },
+  {
+    "name": "浙江省",
+    "shortName": "浙江",
+    "capital": "杭州",
+    "region": "华东",
+    "cuisine": "浙菜",
+    "description": "浙江饮食文化与浙菜交融，各具地域特色。",
+    "famousFoods": [
+      "地方名菜",
+      "特色小吃",
+      "家常风味"
+    ],
+    "coordinates": [
+      120.109913,
+      29.181466
+    ],
+    "id": 34
+  }
+]
