@@ -202,6 +202,7 @@
 
 <script setup>
 import { computed, reactive, ref } from 'vue'
+import { withBase } from '@/utils/assets'
 
 /**
  * 后续对接后端时：
@@ -260,7 +261,7 @@ function removePickedImage(idx) {
 function onImgError(ev) {
   const img = ev.target
   img.onerror = null
-  img.src = '/images/default-dish.jpg'
+  img.src = withBase('/images/default-dish.jpg')
 }
 
 function nowIso() {

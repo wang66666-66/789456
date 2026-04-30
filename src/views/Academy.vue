@@ -202,6 +202,7 @@ import { useRouter } from 'vue-router'
 import { useUserStore } from '@/stores/user'
 import { useDataStore } from '@/stores/data'
 import RecreateChallenge from '@/components/academy/RecreateChallenge.vue'
+import { withBase } from '@/utils/assets'
 
 const router = useRouter()
 const userStore = useUserStore()
@@ -333,7 +334,7 @@ const findDish = (foodId) =>
 
 const getFoodImage = (foodId) => {
   const dish = findDish(foodId)
-  return dish?.image || '/images/default-dish.jpg'
+  return dish?.image || withBase('/images/default-dish.jpg')
 }
 
 // 获取美食名称
@@ -351,7 +352,7 @@ const getFoodFlavor = (foodId) => {
 const onCollectionImageError = (event) => {
   const img = event.target
   img.onerror = null
-  img.src = '/images/default-dish.jpg'
+  img.src = withBase('/images/default-dish.jpg')
 }
 
 // 所属区域文案（与首页 DishCard 一致，图片正下方展示）

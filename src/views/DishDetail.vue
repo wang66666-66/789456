@@ -5,7 +5,7 @@
 
       <div class="detail-media">
         <img
-          :src="dish.image || '/images/default-dish.jpg'"
+          :src="dish.image || withBase('/images/default-dish.jpg')"
           :alt="dish.name"
           class="hero-img"
           @error="onImgError"
@@ -99,6 +99,7 @@ import { computed, watch, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useDataStore } from '@/stores/data'
 import { useUserStore } from '@/stores/user'
+import { withBase } from '@/utils/assets'
 
 const route = useRoute()
 const router = useRouter()
@@ -200,7 +201,7 @@ const goBack = () => {
 const onImgError = (e) => {
   const img = e.target
   img.onerror = null
-  img.src = '/images/default-dish.jpg'
+  img.src = withBase('/images/default-dish.jpg')
 }
 
 const collect = () => {

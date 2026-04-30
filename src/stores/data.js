@@ -1,7 +1,12 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
+import { withBase } from '@/utils/assets'
 
 const normalizeText = (value) => String(value ?? '').trim().toLowerCase()
+const normalizeDishImage = (dish) => ({
+  ...dish,
+  image: withBase(dish?.image || '/images/default-dish.jpg')
+})
 
 export const useDataStore = defineStore('data', () => {
   // 省份数据
@@ -157,7 +162,9 @@ export const useDataStore = defineStore('data', () => {
         const solarDishData = await import('@/data/solar_terms_dishes_complete.json')
         const solarExtra = (solarDishData.default || solarDishData)?.dishes || []
         const merged = [...dishes.value, ...solarExtra]
-        dishes.value = Array.from(new Map(merged.map((d) => [String(d.id), d])).values())
+        dishes.value = Array.from(
+          new Map(merged.map((d) => [String(d.id), normalizeDishImage(d)])).values()
+        )
         solarExtraMerged = true
       }
       return
@@ -178,7 +185,9 @@ export const useDataStore = defineStore('data', () => {
         const solarExtra = (solarDishData.default || solarDishData)?.dishes || []
         // 按 id 去重后合并，保留原有地图菜品并补充节气完整数据
         const merged = [...baseDishes, ...solarExtra]
-        dishes.value = Array.from(new Map(merged.map((d) => [String(d.id), d])).values())
+        dishes.value = Array.from(
+          new Map(merged.map((d) => [String(d.id), normalizeDishImage(d)])).values()
+        )
         solarExtraMerged = true
         solarTerms.value = solarData.default || solarData
 

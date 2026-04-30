@@ -67,6 +67,7 @@ import { useRouter } from 'vue-router'
 import { useDataStore } from '@/stores/data'
 import { useUserStore } from '@/stores/user'
 import { ElMessage } from 'element-plus'
+import { withBase } from '@/utils/assets'
 
 const router = useRouter()
 
@@ -142,7 +143,7 @@ const viewDetail = () => {
 const handleImageError = (event) => {
   const img = event.target
   img.onerror = null
-  img.src = '/images/dishes/default.jpg'
+  img.src = withBase('/images/default-dish.jpg')
 }
 </script>
 
